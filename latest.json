@@ -1,11 +1,11 @@
 {
   "package": "com.example.tripflow",
-  "versionCode": 10,
-  "versionName": "1.0.9",
-  "apkUrl": "https://github.com/goone031/TripFlow-updates/releases/download/v1.0.9/TripFlow-1.0.9.apk",
-  "md5": "5e3f4f28d3e488988d77e4deda815812",
-  "sha256": "678d68efaf6f73921040ba49f5718adf0c5a662e467481042a3848ec408b2214",
-  "notes": "Model back to Gemini 2.5 Flash (free tier)",
+  "versionCode": 11,
+  "versionName": "1.0.10",
+  "apkUrl": "https://github.com/goone031/TripFlow-updates/releases/download/v1.0.10/TripFlow-1.0.10.apk",
+  "md5": "0fc7b4333a28a327d9b4fb7017616b70",
+  "sha256": "2944b585c2c5d99af12bedf398657873a5d13e2af8e78d4212050252191e01fe",
+  "notes": "Gemini 3.7 Flash via AI Studio API key",
   "force": false,
-  "releasedAt": "2026-08-18T22:57:12.276Z"
+  "releasedAt": "2026-08-18T23:45:10.191Z"
 }
