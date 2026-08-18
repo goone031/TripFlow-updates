@@ -1,11 +1,11 @@
 {
   "package": "com.example.tripflow",
-  "versionCode": 9,
-  "versionName": "1.0.8",
-  "apkUrl": "https://github.com/goone031/TripFlow-updates/releases/download/v1.0.8/TripFlow-1.0.8.apk",
-  "md5": "9f86cc7b83e14ea23c7387127a856c4d",
-  "sha256": "d7bde462c755f03da662f4e908cdcbc681fa27640992161a16a2ac8f8b91f69e",
-  "notes": "Switch planner to Gemini 3.6 Flash.",
+  "versionCode": 10,
+  "versionName": "1.0.9",
+  "apkUrl": "https://github.com/goone031/TripFlow-updates/releases/download/v1.0.9/TripFlow-1.0.9.apk",
+  "md5": "5e3f4f28d3e488988d77e4deda815812",
+  "sha256": "678d68efaf6f73921040ba49f5718adf0c5a662e467481042a3848ec408b2214",
+  "notes": "Model back to Gemini 2.5 Flash (free tier)",
   "force": false,
-  "releasedAt": "2026-08-18T22:29:08.995Z"
+  "releasedAt": "2026-08-18T22:57:12.276Z"
 }
