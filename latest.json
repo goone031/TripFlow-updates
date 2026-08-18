@@ -1,11 +1,1 @@
-{
-  "package": "com.example.tripflow",
-  "versionCode": 7,
-  "versionName": "1.0.6",
-  "apkUrl": "https://github.com/goone031/TripFlow-updates/releases/download/v1.0.6/TripFlow-1.0.6.apk",
-  "md5": "cf8f7373384e525eb0896e5ab3d941f5",
-  "sha256": "6446d214e4233e019402867faaba2cb9dd580c4392000d55050a8c2047d4406b",
-  "notes": "改用 Gemini 3.7 Flash 規劃行程。",
-  "force": false,
-  "releasedAt": "2026-08-18T13:38:04.519Z"
-}
+{"package":"com.example.tripflow","versionCode":8,"versionName":"1.0.7","apkUrl":"https://github.com/goone031/TripFlow-updates/releases/download/v1.0.7/TripFlow-1.0.7.apk","md5":"fe177e686f76fede5b83eedcdd26771a","sha256":"159eb5bd5c3a424e0dbf8d1a46c56aac973882012488574c289efdf011231e6b","notes":"Model back to Gemini 2.5 Flash (free tier)","force":false,"releasedAt":"2026-08-18T15:25:00Z"}
