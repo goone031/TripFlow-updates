@@ -1,11 +1,11 @@
 {
   "package": "com.example.tripflow",
-  "versionCode": 2,
-  "versionName": "1.0.1",
-  "apkUrl": "https://github.com/goone031/TripFlow-updates/releases/download/v1.0.1/TripFlow-1.0.1.apk",
-  "md5": "0d10a5771c276732f2187ced42bebf29",
-  "sha256": "c22eff539081c32074e42b679dcabe537ba34664c0fdc12c378bc6a1f6406608",
-  "notes": "打開 App 會自動檢查新版本。確認後即可下載安裝，之後就不用每次去雲端硬碟找新檔。",
+  "versionCode": 3,
+  "versionName": "1.0.2",
+  "apkUrl": "https://github.com/goone031/TripFlow-updates/releases/download/v1.0.2/TripFlow-1.0.2.apk",
+  "md5": "0b6be6fcf7dab5dad94e4e287410671f",
+  "sha256": "e7548ebf8606556562c582cf12fe6334ef3e143a20871f7afbb4b440870c6793",
+  "notes": "Google 登入已改成正確的反向 Client ID 回跳，不再送出無效 OAuth 要求。",
   "force": false,
-  "releasedAt": "2026-08-18T00:16:22.905Z"
+  "releasedAt": "2026-08-18T04:24:01.152Z"
 }
