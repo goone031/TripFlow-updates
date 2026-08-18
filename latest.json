@@ -1,11 +1,11 @@
 {
   "package": "com.example.tripflow",
-  "versionCode": 3,
-  "versionName": "1.0.2",
-  "apkUrl": "https://github.com/goone031/TripFlow-updates/releases/download/v1.0.2/TripFlow-1.0.2.apk",
-  "md5": "0b6be6fcf7dab5dad94e4e287410671f",
-  "sha256": "e7548ebf8606556562c582cf12fe6334ef3e143a20871f7afbb4b440870c6793",
-  "notes": "Google 登入已改成正確的反向 Client ID 回跳，不再送出無效 OAuth 要求。",
+  "versionCode": 4,
+  "versionName": "1.0.3",
+  "apkUrl": "https://github.com/goone031/TripFlow-updates/releases/download/v1.0.3/TripFlow-1.0.3.apk",
+  "md5": "d975b40e72556c46e14271765a806060",
+  "sha256": "a18980c74c746e07075f06b44cfedeb8feedf362f56709d31b7ff3b3024c51d9",
+  "notes": "Google 登入不再要求無效的 generative-language 權限，修正 400 invalid_scope。",
   "force": false,
-  "releasedAt": "2026-08-18T04:24:01.152Z"
+  "releasedAt": "2026-08-18T04:49:55.565Z"
 }
