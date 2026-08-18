@@ -1,11 +1,11 @@
 {
   "package": "com.example.tripflow",
-  "versionCode": 4,
-  "versionName": "1.0.3",
-  "apkUrl": "https://github.com/goone031/TripFlow-updates/releases/download/v1.0.3/TripFlow-1.0.3.apk",
-  "md5": "d975b40e72556c46e14271765a806060",
-  "sha256": "a18980c74c746e07075f06b44cfedeb8feedf362f56709d31b7ff3b3024c51d9",
-  "notes": "Google 登入不再要求無效的 generative-language 權限，修正 400 invalid_scope。",
+  "versionCode": 5,
+  "versionName": "1.0.4",
+  "apkUrl": "https://github.com/goone031/TripFlow-updates/releases/download/v1.0.4/TripFlow-1.0.4.apk",
+  "md5": "9b63068707e39dc64242d220f0a848bf",
+  "sha256": "d28c2cbcf7e1f92c3c6c5a04b20d86380b9c84f601876f39847d92a0d1ccbe9a",
+  "notes": "修正更新驗證與登入設定，通過完整驗收。",
   "force": false,
-  "releasedAt": "2026-08-18T04:49:55.565Z"
+  "releasedAt": "2026-08-18T12:41:51.519Z"
 }
