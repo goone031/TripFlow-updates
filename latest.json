@@ -1,11 +1,11 @@
 {
   "package": "com.example.tripflow",
-  "versionCode": 18,
-  "versionName": "1.0.17",
-  "apkUrl": "https://github.com/goone031/TripFlow-updates/releases/download/v1.0.17/TripFlow-1.0.17.apk",
-  "md5": "c230d9bed291672ad47910de9733b49a",
-  "sha256": "eadb37ea61a42090194e15a285d3236f3ae1d83476825420c6ab23d15efc98c8",
-  "notes": "五天行程改成分天規劃，地圖可按天瀏覽，設定可上傳除錯紀錄。",
+  "versionCode": 19,
+  "versionName": "1.0.18",
+  "apkUrl": "https://github.com/goone031/TripFlow-updates/releases/download/v1.0.18/TripFlow-1.0.18.apk",
+  "md5": "ac5f35759d12e18c5628fef2585c8e30",
+  "sha256": "da9bdcef666dfe4b89dd54effb288860d897aee34b4ebcf354304cbba7980338",
+  "notes": "修正規劃日期被今天蓋掉，以及點旅程閃退。",
   "force": false,
-  "releasedAt": "2026-08-19T10:49:29.160Z"
+  "releasedAt": "2026-08-19T11:46:21.548Z"
 }
