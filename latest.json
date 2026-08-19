@@ -1,11 +1,11 @@
 {
   "package": "com.example.tripflow",
-  "versionCode": 26,
-  "versionName": "1.0.25",
-  "apkUrl": "https://github.com/goone031/TripFlow-updates/releases/download/v1.0.25/TripFlow-1.0.25.apk",
-  "md5": "712a8842f2d80f196bdab9ad01589dac",
-  "sha256": "e9119a5755f44f15ca69581ea1ba64c8fab437c6491c94042936a3cb1858a552",
-  "notes": "第一天會對齊抵達時間；正選可加備選並一起亮起；候選可放到指定位置。",
+  "versionCode": 27,
+  "versionName": "1.0.26",
+  "apkUrl": "https://github.com/goone031/TripFlow-updates/releases/download/v1.0.26/TripFlow-1.0.26.apk",
+  "md5": "9114d796a40b201ab031895aeca50959",
+  "sha256": "230978c92e7b53ac6edd8ebd3829e625730421bde672f414eac195727f4b2225",
+  "notes": "規劃改為單次高推理，不再同時生三版再挑選。",
   "force": false,
-  "releasedAt": "2026-08-19T13:53:50.630Z"
+  "releasedAt": "2026-08-19T14:01:29.817Z"
 }
