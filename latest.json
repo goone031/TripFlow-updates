@@ -1,11 +1,11 @@
 {
   "package": "com.example.tripflow",
-  "versionCode": 29,
-  "versionName": "1.0.28",
-  "apkUrl": "https://github.com/goone031/TripFlow-updates/releases/download/v1.0.28/TripFlow-1.0.28.apk",
-  "md5": "bff78243cacfffd22d66b934eca608b7",
-  "sha256": "5a3c4469567231043e45c1ce3b94ffb18213be93e605d4c0aa298e481beb734c",
-  "notes": "規劃先用 3.7 Flash，忙碌或失敗改打 3.6 Flash，不再落到 2.5。",
+  "versionCode": 30,
+  "versionName": "1.0.29",
+  "apkUrl": "https://github.com/goone031/TripFlow-updates/releases/download/v1.0.29/TripFlow-1.0.29.apk",
+  "md5": "68afaa502f2778d5bb4deda12c5e5537",
+  "sha256": "be7e2a0cf75d618fc626267fcdca71fa45339e5427c73c71872ef89fbc56bec6",
+  "notes": "開著 App 更新不再卡死。下載完會打開系統安裝畫面，並把 tripGo 放到背景，不用再滑掉重開。",
   "force": false,
-  "releasedAt": "2026-08-19T14:30:42.043Z"
+  "releasedAt": "2026-08-19T14:48:22.377Z"
 }
