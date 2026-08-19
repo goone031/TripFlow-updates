@@ -1,11 +1,11 @@
 {
   "package": "com.example.tripflow",
-  "versionCode": 27,
-  "versionName": "1.0.26",
-  "apkUrl": "https://github.com/goone031/TripFlow-updates/releases/download/v1.0.26/TripFlow-1.0.26.apk",
-  "md5": "9114d796a40b201ab031895aeca50959",
-  "sha256": "230978c92e7b53ac6edd8ebd3829e625730421bde672f414eac195727f4b2225",
-  "notes": "規劃改為單次高推理，不再同時生三版再挑選。",
+  "versionCode": 28,
+  "versionName": "1.0.27",
+  "apkUrl": "https://github.com/goone031/TripFlow-updates/releases/download/v1.0.27/TripFlow-1.0.27.apk",
+  "md5": "ba175c40d7aeed8a4acc334383356b48",
+  "sha256": "418bc95b94a7b07053ac2d8d16ebe91ed48c78057b659dd2ed23957a9598ecc1",
+  "notes": "3.7 忙碌時自動重試，並改打 2.5 Flash 備援。",
   "force": false,
-  "releasedAt": "2026-08-19T14:01:29.817Z"
+  "releasedAt": "2026-08-19T14:23:31.194Z"
 }
