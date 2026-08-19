@@ -1,11 +1,11 @@
 {
   "package": "com.example.tripflow",
-  "versionCode": 20,
-  "versionName": "1.0.19",
-  "apkUrl": "https://github.com/goone031/TripFlow-updates/releases/download/v1.0.19/TripFlow-1.0.19.apk",
-  "md5": "41bd34369b79895665114fbb6e6dfe5b",
-  "sha256": "8891044c1d82c899ad4581910387e5213519232d111ce7511f96dc113f84d7eb",
-  "notes": "規劃改為同時排出多天、不再逐個讀網頁，並可取消。備註可之後點地點再整理。",
+  "versionCode": 21,
+  "versionName": "1.0.20",
+  "apkUrl": "https://github.com/goone031/TripFlow-updates/releases/download/v1.0.20/TripFlow-1.0.20.apk",
+  "md5": "0350d64a3c29cc34f79d15cfcc4d720e",
+  "sha256": "1a81a20516663049aaa2f645ad0a225fa11819684471d0514ec730c6a94f2b11",
+  "notes": "規劃改成一次排出全部天數，關閉多餘思考，五天不必再等好幾分鐘。",
   "force": false,
-  "releasedAt": "2026-08-19T12:00:00.000Z"
+  "releasedAt": "2026-08-19T12:07:02.180Z"
 }
