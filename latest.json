@@ -1,11 +1,11 @@
 {
   "package": "com.example.tripflow",
-  "versionCode": 31,
-  "versionName": "1.0.30",
-  "apkUrl": "https://github.com/goone031/TripFlow-updates/releases/download/v1.0.30/TripFlow-1.0.30.apk",
-  "md5": "2c4c85a67b3ca8d06764e14051f3f7b5",
-  "sha256": "12d75014447bf6a17d1ec4b2005c50621f16b5419aa47ab93930b5c29edff082",
-  "notes": "3.7 HIGH 忙碌時改打 3.6，兩邊都過載再改中推理，不再落到 2.5。",
+  "versionCode": 32,
+  "versionName": "1.0.31",
+  "apkUrl": "https://github.com/goone031/TripFlow-updates/releases/download/v1.0.31/TripFlow-1.0.31.apk",
+  "md5": "fc81dd97036673b0909a02d89fcdcc95",
+  "sha256": "4382927fb312d3ea0c3743cb3b5ed622bf8552d0906302815b220a094cd44907",
+  "notes": "3.7 高推理一忙碌就立刻改打 3.6；兩邊都不行再降中／低推理。",
   "force": false,
-  "releasedAt": "2026-08-19T15:00:20.481Z"
+  "releasedAt": "2026-08-19T15:11:13.558Z"
 }
