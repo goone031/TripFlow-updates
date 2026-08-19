@@ -1,11 +1,11 @@
 {
   "package": "com.example.tripflow",
-  "versionCode": 12,
-  "versionName": "1.0.11",
-  "apkUrl": "https://github.com/goone031/TripFlow-updates/releases/download/v1.0.11/TripFlow-1.0.11.apk",
-  "md5": "ce09ce2a1348893713a47bbcfa0e6855",
-  "sha256": "f9d86f734fc165bfd7544c4b356a0421cdc1ca825d09c2ca166df38b7e4dceb6",
-  "notes": "Renamed to tripGo. Demo removed. Map sheet, fake location, Gemini follow-up, book all, delete trip.",
+  "versionCode": 13,
+  "versionName": "1.0.12",
+  "apkUrl": "https://github.com/goone031/TripFlow-updates/releases/download/v1.0.12/TripFlow-1.0.12.apk",
+  "md5": "6356f39baa97b2665213e414825da6bc",
+  "sha256": "d2da83bdbd926bf31420ff891afee125736b0905e44dedbb8625e9428afe3e80",
+  "notes": "首頁右上角改為設定，更新檢查移入設定，只保留一處建立旅程。",
   "force": false,
-  "releasedAt": "2026-08-19T05:20:00Z"
+  "releasedAt": "2026-08-19T09:39:23.207Z"
 }
