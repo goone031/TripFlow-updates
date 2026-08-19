@@ -1,11 +1,11 @@
 {
   "package": "com.example.tripflow",
-  "versionCode": 16,
-  "versionName": "1.0.15",
-  "apkUrl": "https://github.com/goone031/TripFlow-updates/releases/download/v1.0.15/TripFlow-1.0.15.apk",
-  "md5": "079cd29e362517040cd458896721d899",
-  "sha256": "04b439c678342e44abd06ac375b8e1ae9252964b8d2066b528cee037f52a8884",
-  "notes": "點地圖圖標可填備註與網址；Gemini 新建地點會自動讀網址整理備註並選對圖標。",
+  "versionCode": 18,
+  "versionName": "1.0.17",
+  "apkUrl": "https://github.com/goone031/TripFlow-updates/releases/download/v1.0.17/TripFlow-1.0.17.apk",
+  "md5": "c230d9bed291672ad47910de9733b49a",
+  "sha256": "eadb37ea61a42090194e15a285d3236f3ae1d83476825420c6ab23d15efc98c8",
+  "notes": "五天行程改成分天規劃，地圖可按天瀏覽，設定可上傳除錯紀錄。",
   "force": false,
-  "releasedAt": "2026-08-19T10:19:36.165Z"
+  "releasedAt": "2026-08-19T10:49:29.160Z"
 }
