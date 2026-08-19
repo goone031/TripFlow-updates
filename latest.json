@@ -1,11 +1,11 @@
 {
   "package": "com.example.tripflow",
-  "versionCode": 22,
-  "versionName": "1.0.21",
-  "apkUrl": "https://github.com/goone031/TripFlow-updates/releases/download/v1.0.21/TripFlow-1.0.21.apk",
-  "md5": "80fc0fc9d26b96329051544236704a8d",
-  "sha256": "5d32c92d5a242259b7238745d0d3d6f8344df48190dff125d6b4db52be36acec",
-  "notes": "規劃一次同時產出三個不思考方案，再自動挑最完整的那份。",
+  "versionCode": 23,
+  "versionName": "1.0.22",
+  "apkUrl": "https://github.com/goone031/TripFlow-updates/releases/download/v1.0.22/TripFlow-1.0.22.apk",
+  "md5": "f1e042b1237eccf3f874006c6d3279a9",
+  "sha256": "88ab9142145b00dc7938e9a68c7aab5cf5f59c0ee45e66319dceaea6d4dab758",
+  "notes": "修好 D1–D4 長條與每日行程滑動；飛行日不再把桃園機場、機上餐點畫上地圖。",
   "force": false,
-  "releasedAt": "2026-08-19T12:18:47.210Z"
+  "releasedAt": "2026-08-19T12:50:00.000Z"
 }
