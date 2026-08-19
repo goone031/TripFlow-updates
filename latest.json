@@ -1,11 +1,11 @@
 {
   "package": "com.example.tripflow",
-  "versionCode": 36,
-  "versionName": "1.0.35",
-  "apkUrl": "https://github.com/goone031/TripFlow-updates/releases/download/v1.0.35/TripFlow-1.0.35.apk",
-  "md5": "692ede20ee28fee155701fcedcdac2e8",
-  "sha256": "e2d9b9daa95ecd3a4a89e6a42a9ea3fb92a57c702c1836549733e72c6ce1c05d",
-  "notes": "預覽改成每天可讀行程，拿掉看不懂的 ID 與重複列；規劃中不再顯示模型；點行程會跳到地圖圖針，點圖針才浮出資訊，裡面才能編輯。",
+  "versionCode": 37,
+  "versionName": "1.0.36",
+  "apkUrl": "https://github.com/goone031/TripFlow-updates/releases/download/v1.0.36/TripFlow-1.0.36.apk",
+  "md5": "8a9ee75c4bfae472e9d517e10c20ac72",
+  "sha256": "73bd858ea1e2429e5afd0d4dce0798155ef67c47ed3234f5e5a687128e874c51",
+  "notes": "規劃問卷改成下拉選單，只保留機場與補充描述手填。",
   "force": false,
-  "releasedAt": "2026-08-19T23:04:35.619Z"
+  "releasedAt": "2026-08-19T23:31:59.839Z"
 }
