@@ -1,11 +1,11 @@
 {
   "package": "com.example.tripflow",
-  "versionCode": 37,
-  "versionName": "1.0.36",
-  "apkUrl": "https://github.com/goone031/TripFlow-updates/releases/download/v1.0.36/TripFlow-1.0.36.apk",
-  "md5": "8a9ee75c4bfae472e9d517e10c20ac72",
-  "sha256": "73bd858ea1e2429e5afd0d4dce0798155ef67c47ed3234f5e5a687128e874c51",
-  "notes": "規劃問卷改成下拉選單，只保留機場與補充描述手填。",
+  "versionCode": 38,
+  "versionName": "1.0.37",
+  "apkUrl": "https://github.com/goone031/TripFlow-updates/releases/download/v1.0.37/TripFlow-1.0.37.apk",
+  "md5": "17f60413c3facd9b36e497daf5b9cee2",
+  "sha256": "fee9985a4f810f625a5a642c4921fb949c1d2d5efa7ec290022745f7f02d798e",
+  "notes": "規劃可選表單問卷或對話一問一答，兩種方式都能互相切換。",
   "force": false,
-  "releasedAt": "2026-08-19T23:31:59.839Z"
+  "releasedAt": "2026-08-19T23:56:28.258Z"
 }
