@@ -1,11 +1,11 @@
 {
   "package": "com.example.tripflow",
-  "versionCode": 33,
-  "versionName": "1.0.32",
-  "apkUrl": "https://github.com/goone031/TripFlow-updates/releases/download/v1.0.32/TripFlow-1.0.32.apk",
-  "md5": "89b4b989d66ff3f0321508195e21ffe2",
-  "sha256": "2cecf73abddd092382e64b18f034155b21f1d9244eb1f753b45c444763c4d426",
-  "notes": "設定可選 3.7／3.6 Flash 與高／中／低／不思考；忙碌時可改打另一個 Flash 或鎖定只用這個模型。",
+  "versionCode": 35,
+  "versionName": "1.0.34",
+  "apkUrl": "https://github.com/goone031/TripFlow-updates/releases/download/v1.0.34/TripFlow-1.0.34.apk",
+  "md5": "f1a1f23f26f46daccf9a99a629bd0aaa",
+  "sha256": "c97979c94eeed81ebf2384b4315db9f0bf6098e7adc3878d27341b83fa56d2cf",
+  "notes": "問卷改固定欄位＋日曆選日期、天數由出發／回程決定；行程含機場與合理交通；鍵盤會把畫面推開；每天獨立候選名單，長按地圖可加圖針，點地點時接近時段的備選會一起亮。",
   "force": false,
-  "releasedAt": "2026-08-19T15:20:40.136Z"
+  "releasedAt": "2026-08-19T15:52:00.000Z"
 }
