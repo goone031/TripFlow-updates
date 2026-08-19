@@ -1,11 +1,11 @@
 {
   "package": "com.example.tripflow",
-  "versionCode": 15,
-  "versionName": "1.0.14",
-  "apkUrl": "https://github.com/goone031/TripFlow-updates/releases/download/v1.0.14/TripFlow-1.0.14.apk",
-  "md5": "79763256d2a0866cf05f13cc2e81c552",
-  "sha256": "5aea7e3ca383538bfded9ebb87576d715841106b0d32da94d356e0c009617a0a",
-  "notes": "地點可填備註與網址，並請 Gemini 依網址整理；Gemini 新建的地點會自動填備註與圖標。",
+  "versionCode": 16,
+  "versionName": "1.0.15",
+  "apkUrl": "https://github.com/goone031/TripFlow-updates/releases/download/v1.0.15/TripFlow-1.0.15.apk",
+  "md5": "079cd29e362517040cd458896721d899",
+  "sha256": "04b439c678342e44abd06ac375b8e1ae9252964b8d2066b528cee037f52a8884",
+  "notes": "點地圖圖標可填備註與網址；Gemini 新建地點會自動讀網址整理備註並選對圖標。",
   "force": false,
-  "releasedAt": "2026-08-19T10:09:46.255Z"
+  "releasedAt": "2026-08-19T10:19:36.165Z"
 }
