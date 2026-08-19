@@ -1,11 +1,11 @@
 {
   "package": "com.example.tripflow",
-  "versionCode": 19,
-  "versionName": "1.0.18",
-  "apkUrl": "https://github.com/goone031/TripFlow-updates/releases/download/v1.0.18/TripFlow-1.0.18.apk",
-  "md5": "ac5f35759d12e18c5628fef2585c8e30",
-  "sha256": "da9bdcef666dfe4b89dd54effb288860d897aee34b4ebcf354304cbba7980338",
-  "notes": "修正規劃日期被今天蓋掉，以及點旅程閃退。",
+  "versionCode": 20,
+  "versionName": "1.0.19",
+  "apkUrl": "https://github.com/goone031/TripFlow-updates/releases/download/v1.0.19/TripFlow-1.0.19.apk",
+  "md5": "41bd34369b79895665114fbb6e6dfe5b",
+  "sha256": "8891044c1d82c899ad4581910387e5213519232d111ce7511f96dc113f84d7eb",
+  "notes": "規劃改為同時排出多天、不再逐個讀網頁，並可取消。備註可之後點地點再整理。",
   "force": false,
-  "releasedAt": "2026-08-19T11:46:21.548Z"
+  "releasedAt": "2026-08-19T12:00:00.000Z"
 }
