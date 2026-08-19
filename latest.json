@@ -1,11 +1,11 @@
 {
   "package": "com.example.tripflow",
-  "versionCode": 24,
-  "versionName": "1.0.23",
-  "apkUrl": "https://github.com/goone031/TripFlow-updates/releases/download/v1.0.23/TripFlow-1.0.23.apk",
-  "md5": "cfd971e1df3457efae9d5d0addef4f2c",
-  "sha256": "a77c42c69d23cf5559b79048d1b12e09e20acfcdced19bf93ba4ae47910b02f0",
-  "notes": "規劃頁不再顯示 AI Studio 狀態；圖針改錨在目的地城市；交通依距離選步行／大眾運輸／電車／計程車；餐廳需真實店名與 Instagram 或官網。",
+  "versionCode": 25,
+  "versionName": "1.0.24",
+  "apkUrl": "https://github.com/goone031/TripFlow-updates/releases/download/v1.0.24/TripFlow-1.0.24.apk",
+  "md5": "4cfdf334caa1d0c6a7dcbe732217e512",
+  "sha256": "16d2c3dd4a38b99e7e6365a0b15a7496f22fdd59844b6a33d39fcc2a759d740e",
+  "notes": "規劃頁拿掉 Google AI Studio 連線狀態，不再顯示金鑰或模型來源。",
   "force": false,
-  "releasedAt": "2026-08-19T13:03:29.147Z"
+  "releasedAt": "2026-08-19T13:11:30.880Z"
 }
