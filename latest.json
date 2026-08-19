@@ -1,11 +1,11 @@
 {
   "package": "com.example.tripflow",
-  "versionCode": 32,
-  "versionName": "1.0.31",
-  "apkUrl": "https://github.com/goone031/TripFlow-updates/releases/download/v1.0.31/TripFlow-1.0.31.apk",
-  "md5": "fc81dd97036673b0909a02d89fcdcc95",
-  "sha256": "4382927fb312d3ea0c3743cb3b5ed622bf8552d0906302815b220a094cd44907",
-  "notes": "3.7 高推理一忙碌就立刻改打 3.6；兩邊都不行再降中／低推理。",
+  "versionCode": 33,
+  "versionName": "1.0.32",
+  "apkUrl": "https://github.com/goone031/TripFlow-updates/releases/download/v1.0.32/TripFlow-1.0.32.apk",
+  "md5": "89b4b989d66ff3f0321508195e21ffe2",
+  "sha256": "2cecf73abddd092382e64b18f034155b21f1d9244eb1f753b45c444763c4d426",
+  "notes": "設定可選 3.7／3.6 Flash 與高／中／低／不思考；忙碌時可改打另一個 Flash 或鎖定只用這個模型。",
   "force": false,
-  "releasedAt": "2026-08-19T15:11:13.558Z"
+  "releasedAt": "2026-08-19T15:20:40.136Z"
 }
