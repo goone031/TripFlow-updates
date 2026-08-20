@@ -1,11 +1,11 @@
 {
   "package": "com.example.tripflow",
-  "versionCode": 38,
-  "versionName": "1.0.37",
-  "apkUrl": "https://github.com/goone031/TripFlow-updates/releases/download/v1.0.37/TripFlow-1.0.37.apk",
-  "md5": "17f60413c3facd9b36e497daf5b9cee2",
-  "sha256": "fee9985a4f810f625a5a642c4921fb949c1d2d5efa7ec290022745f7f02d798e",
-  "notes": "規劃可選表單問卷或對話一問一答，兩種方式都能互相切換。",
+  "versionCode": 39,
+  "versionName": "1.0.38",
+  "apkUrl": "https://github.com/goone031/TripFlow-updates/releases/download/v1.0.38/TripFlow-1.0.38.apk",
+  "md5": "eb1caabfa4feccf3a2c46fb5cd591ac2",
+  "sha256": "637170df0e004a1c9fc7fc7a7230ef9f06341ef7b73d8be219c7e836bea06fe1",
+  "notes": "設定可看每次模型花費、各模型平均與累計總花費。",
   "force": false,
-  "releasedAt": "2026-08-19T23:56:28.258Z"
+  "releasedAt": "2026-08-20T00:18:37.358Z"
 }
