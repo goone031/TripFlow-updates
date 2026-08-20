@@ -1,12 +1,12 @@
 {
   "package": "com.example.tripflow",
-  "versionCode": 52,
-  "versionName": "1.0.51",
-  "apkUrl": "https://github.com/goone031/TripFlow-updates/releases/download/v1.0.51/TripFlow-1.0.51.apk",
-  "md5": "3ddc7da2a88c7170a5bdef3d6945e831",
-  "sha256": "72dfb0c0e3e6f482d0c68d2935f9240fda72abc4ac43e77327c203b610884e9f",
+  "versionCode": 53,
+  "versionName": "1.0.52",
+  "apkUrl": "https://github.com/goone031/TripFlow-updates/releases/download/v1.0.52/TripFlow-1.0.52.apk",
+  "md5": "2b348f26dee3bed15041807cd30b2d5c",
+  "sha256": "359d97f56c8e70e6dd0ce38e72ba3e92f6209ae859b01ab9f69c4934cdb14d63",
   "signerCertSha256": "bf9ae8c26c974d1f97b3a74a65e6564a1a7683e6611914b9a5dc457e65561eda",
-  "notes": "圖針可開 Google 地圖導航。典藏與 Reels 改走較快整理。",
+  "notes": "規劃中會顯示規劃過程。不顯示模型名稱。",
   "force": false,
-  "releasedAt": "2026-08-20T06:30:38.298Z"
+  "releasedAt": "2026-08-20T06:52:56.541Z"
 }
