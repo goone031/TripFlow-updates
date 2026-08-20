@@ -1,12 +1,12 @@
 {
   "package": "com.example.tripflow",
-  "versionCode": 62,
-  "versionName": "1.0.61",
-  "apkUrl": "https://github.com/goone031/TripFlow-updates/releases/download/v1.0.61/TripFlow-1.0.61.apk",
-  "md5": "71fb3f21dd4240e6ca15ee967101ca85",
-  "sha256": "20faba5ae0342dc2509bdf688c9fa84cb9afcb3446daea53da1965d6d974e058",
+  "versionCode": 63,
+  "versionName": "1.0.62",
+  "apkUrl": "https://github.com/goone031/TripFlow-updates/releases/download/v1.0.62/TripFlow-1.0.62.apk",
+  "md5": "fa664f28b939af3c1e91f0ae35cf5089",
+  "sha256": "0da69534eef852b5beb81818e96102fb1060f9bf628a77048c1d31fac47234d1",
   "signerCertSha256": "bf9ae8c26c974d1f97b3a74a65e6564a1a7683e6611914b9a5dc457e65561eda",
-  "notes": "北九州可查航空：對到北九州機場，桃園直飛列出星悅航空。手打北九州市或 Kitakyushu 也會對到。",
+  "notes": "規劃失敗後不必重填。條件還在，可直接再規劃。",
   "force": false,
-  "releasedAt": "2026-08-20T12:37:12.235Z"
+  "releasedAt": "2026-08-20T13:15:23.496Z"
 }
