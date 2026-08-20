@@ -1,12 +1,12 @@
 {
   "package": "com.example.tripflow",
-  "versionCode": 43,
-  "versionName": "1.0.42",
-  "apkUrl": "https://github.com/goone031/TripFlow-updates/releases/download/v1.0.42/TripFlow-1.0.42.apk",
-  "md5": "a9b3a7646c4edc59087103dea2c0253d",
-  "sha256": "e97eed5b503bf075163834fefd006edee18cb4f593464354a2c6e2c966340775",
+  "versionCode": 44,
+  "versionName": "1.0.43",
+  "apkUrl": "https://github.com/goone031/TripFlow-updates/releases/download/v1.0.43/TripFlow-1.0.43.apk",
+  "md5": "7ce9eb775025cceb7552ac00733113cd",
+  "sha256": "43ea9feefea0b13d8725b3a7304630c45d1b2a479f92d1cda27c7384d70bdc50",
   "signerCertSha256": "bf9ae8c26c974d1f97b3a74a65e6564a1a7683e6611914b9a5dc457e65561eda",
-  "notes": "正式簽名。更新不必先關掉 App，下載後在系統畫面按安裝即可。從 1.0.41 裝這版仍可能要按一次系統安裝。",
+  "notes": "這次請用瀏覽器打開安裝連結，不要在 App 裡下載。舊版會把 App 關掉，安裝畫面出不來。裝好後下次更新會跳出系統安裝畫面。",
   "force": false,
-  "releasedAt": "2026-08-20T02:50:24.829Z"
+  "releasedAt": "2026-08-20T03:16:47.985Z"
 }
