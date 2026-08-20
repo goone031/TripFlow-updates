@@ -1,12 +1,12 @@
 {
   "package": "com.example.tripflow",
-  "versionCode": 53,
-  "versionName": "1.0.52",
-  "apkUrl": "https://github.com/goone031/TripFlow-updates/releases/download/v1.0.52/TripFlow-1.0.52.apk",
-  "md5": "2b348f26dee3bed15041807cd30b2d5c",
-  "sha256": "359d97f56c8e70e6dd0ce38e72ba3e92f6209ae859b01ab9f69c4934cdb14d63",
+  "versionCode": 54,
+  "versionName": "1.0.53",
+  "apkUrl": "https://github.com/goone031/TripFlow-updates/releases/download/v1.0.53/TripFlow-1.0.53.apk",
+  "md5": "31eda58877fa1dc06471018b2884f228",
+  "sha256": "f4a2478113d5af1ce9f2e50229845fe69e10713594f287f16111a1de1c0c4842",
   "signerCertSha256": "bf9ae8c26c974d1f97b3a74a65e6564a1a7683e6611914b9a5dc457e65561eda",
-  "notes": "規劃中會顯示規劃過程。不顯示模型名稱。",
+  "notes": "打開 Google 機票改用手機預設瀏覽器，不必裝 Chrome。出發地、目的地、日期會先填好。",
   "force": false,
-  "releasedAt": "2026-08-20T06:52:56.541Z"
+  "releasedAt": "2026-08-20T07:27:53.706Z"
 }
