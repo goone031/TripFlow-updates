@@ -1,12 +1,12 @@
 {
   "package": "com.example.tripflow",
-  "versionCode": 59,
-  "versionName": "1.0.58",
-  "apkUrl": "https://github.com/goone031/TripFlow-updates/releases/download/v1.0.58/TripFlow-1.0.58.apk",
-  "md5": "77249077cdf85e488478923d79bfdde9",
-  "sha256": "3ac64532915be627a5fb5c79f795226c30d3979876cde6b577223a7652cbb724",
+  "versionCode": 60,
+  "versionName": "1.0.59",
+  "apkUrl": "https://github.com/goone031/TripFlow-updates/releases/download/v1.0.59/TripFlow-1.0.59.apk",
+  "md5": "b1ce3327d8c8bda328f1bcdbf93cd9c8",
+  "sha256": "fc8b353d42d94e60d3cadd6db3a9d47282fb5391aefc58517614219b365adeac",
   "signerCertSha256": "bf9ae8c26c974d1f97b3a74a65e6564a1a7683e6611914b9a5dc457e65561eda",
-  "notes": "齒輪改打開獨立設定頁。使用密碼在設定最上面。舊旅程不用刪。",
+  "notes": "修正按更新閃退。請用瀏覽器裝這次。檢查更新改開獨立頁。舊旅程不用刪。",
   "force": false,
-  "releasedAt": "2026-08-20T11:46:17.568Z"
+  "releasedAt": "2026-08-20T12:00:54.934Z"
 }
