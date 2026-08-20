@@ -1,11 +1,11 @@
 {
   "package": "com.example.tripflow",
-  "versionCode": 40,
-  "versionName": "1.0.39",
-  "apkUrl": "https://github.com/goone031/TripFlow-updates/releases/download/v1.0.39/TripFlow-1.0.39.apk",
-  "md5": "79d6af74803c245f477d1fe087137427",
-  "sha256": "1d8be6985d1d49bfd17b8bcb454a0e9c8dfeeb5af086fb19e18103c08fc33d32",
-  "notes": "規劃結果會保留抵達／離開機場圖針；不會再因桃園座標或空港名稱把目的地機場刪掉。",
+  "versionCode": 41,
+  "versionName": "1.0.40",
+  "apkUrl": "https://github.com/goone031/TripFlow-updates/releases/download/v1.0.40/TripFlow-1.0.40.apk",
+  "md5": "1e6caec665f2f3c8de9be44304cb55cf",
+  "sha256": "d3b783eef42717a0bcf0cdd677d041d94dc9820ed968408061e53ac890f54635",
+  "notes": "規劃後第一天第一站固定是抵達機場，最後一天最後一站固定是離開機場；問卷填桃園也不會把目的地機場刪掉。",
   "force": false,
-  "releasedAt": "2026-08-20T01:07:53.156Z"
+  "releasedAt": "2026-08-20T01:35:20.839Z"
 }
