@@ -1,12 +1,12 @@
 {
   "package": "com.example.tripflow",
-  "versionCode": 57,
-  "versionName": "1.0.56",
-  "apkUrl": "https://github.com/goone031/TripFlow-updates/releases/download/v1.0.56/TripFlow-1.0.56.apk",
-  "md5": "108db2475fc9538ca5ead422f2da3da3",
-  "sha256": "ade3843d298814aeac2a7d0396f92d65178d6f0a0e3c87c7c758b25c7f87daa3",
+  "versionCode": 58,
+  "versionName": "1.0.57",
+  "apkUrl": "https://github.com/goone031/TripFlow-updates/releases/download/v1.0.57/TripFlow-1.0.57.apk",
+  "md5": "e383b42ed4e25f7605beb3573b5d1eb2",
+  "sha256": "bd0abafffa859abe53731de70534bc7cf125812c409fd7bafd1f0e53b99aff36",
   "signerCertSha256": "bf9ae8c26c974d1f97b3a74a65e6564a1a7683e6611914b9a5dc457e65561eda",
-  "notes": "設定長按目前版本可貼使用密碼。規劃和查票價會帶上它。",
+  "notes": "改連到你的 Cloudflare Worker。規劃與查票價的金鑰請在 Cloudflare 後台貼上，不必重出這支安裝包。",
   "force": false,
-  "releasedAt": "2026-08-20T10:28:30.385Z"
+  "releasedAt": "2026-08-20T11:25:53.727Z"
 }
