@@ -1,12 +1,12 @@
 {
   "package": "com.example.tripflow",
-  "versionCode": 70,
-  "versionName": "1.0.69",
-  "apkUrl": "https://github.com/goone031/TripFlow-updates/releases/download/v1.0.69/TripFlow-1.0.69.apk",
-  "md5": "2bb36bbdfcd4eb9e7cec458af28fcacb",
-  "sha256": "51dc7b2f35ca13a7ba137619a42ae96d3f9afec63c672cf191cff3e5e506fef0",
+  "versionCode": 71,
+  "versionName": "1.0.70",
+  "apkUrl": "https://github.com/goone031/TripFlow-updates/releases/download/v1.0.70/TripFlow-1.0.70.apk",
+  "md5": "9af74ecaebf742c0944fce5ad1862b30",
+  "sha256": "ee655224e17dad2813b9c6f70c79687a93ed91e1133ffe5fceafd2d2bd2ee86d",
   "signerCertSha256": "bf9ae8c26c974d1f97b3a74a65e6564a1a7683e6611914b9a5dc457e65561eda",
-  "notes": "一按規劃不再把次數用完顯示成忙碌。每天上限已放寬，模型忙碌不扣次數。",
+  "notes": "每天顯示目的地天氣。行程頁每天有溫度與降雨；超過兩週的日期會標季節預報。舊旅程不用刪，打開就會看到。",
   "force": false,
-  "releasedAt": "2026-08-20T15:57:28.978Z"
+  "releasedAt": "2026-08-20T16:15:35.591Z"
 }
