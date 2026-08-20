@@ -1,12 +1,12 @@
 {
   "package": "com.example.tripflow",
-  "versionCode": 71,
-  "versionName": "1.0.70",
-  "apkUrl": "https://github.com/goone031/TripFlow-updates/releases/download/v1.0.70/TripFlow-1.0.70.apk",
-  "md5": "9af74ecaebf742c0944fce5ad1862b30",
-  "sha256": "ee655224e17dad2813b9c6f70c79687a93ed91e1133ffe5fceafd2d2bd2ee86d",
+  "versionCode": 72,
+  "versionName": "1.0.71",
+  "apkUrl": "https://github.com/goone031/TripFlow-updates/releases/download/v1.0.71/TripFlow-1.0.71.apk",
+  "md5": "c968bd572717b7b3047428c7b89ad1c3",
+  "sha256": "ed63ef58eb6663b77ed6191a40eb8507a1b923c26859c7b2ea05eec04777a6d2",
   "signerCertSha256": "bf9ae8c26c974d1f97b3a74a65e6564a1a7683e6611914b9a5dc457e65561eda",
-  "notes": "每天顯示目的地天氣。行程頁每天有溫度與降雨；超過兩週的日期會標季節預報。舊旅程不用刪，打開就會看到。",
+  "notes": "規劃改先排動線再逐日填店；寫入後背景補網址；點進景點才生備選。",
   "force": false,
-  "releasedAt": "2026-08-20T16:15:35.591Z"
+  "releasedAt": "2026-08-20T16:38:56.738Z"
 }
