@@ -1,12 +1,12 @@
 {
   "package": "com.example.tripflow",
-  "versionCode": 73,
-  "versionName": "1.0.72",
-  "apkUrl": "https://github.com/goone031/TripFlow-updates/releases/download/v1.0.72/TripFlow-1.0.72.apk",
-  "md5": "4909aa5021793a7d30e5b5bdac32e650",
-  "sha256": "9687edea2990888ddf7c13e2199f445410233ed037a4be6593484191164d2073",
+  "versionCode": 74,
+  "versionName": "1.0.73",
+  "apkUrl": "https://github.com/goone031/TripFlow-updates/releases/download/v1.0.73/TripFlow-1.0.73.apk",
+  "md5": "901a9045905d86442ea34d99c5e42b61",
+  "sha256": "e47ec98d6044ab4a3c1249f388a981ff8aa240319dabef6d80bcd7fba4fb0798",
   "signerCertSha256": "bf9ae8c26c974d1f97b3a74a65e6564a1a7683e6611914b9a5dc457e65561eda",
-  "notes": "行程頁可輸入名稱或地址新增地點；長按景點可編輯、找備選或刪除。",
+  "notes": "規劃中可以關螢幕。通知列會顯示進度，完成或失敗會再通知你。",
   "force": false,
-  "releasedAt": "2026-08-20T17:02:05.976Z"
+  "releasedAt": "2026-08-20T17:21:50.187Z"
 }
