@@ -1,12 +1,12 @@
 {
   "package": "com.example.tripflow",
-  "versionCode": 44,
-  "versionName": "1.0.43",
-  "apkUrl": "https://github.com/goone031/TripFlow-updates/releases/download/v1.0.43/TripFlow-1.0.43.apk",
-  "md5": "7ce9eb775025cceb7552ac00733113cd",
-  "sha256": "43ea9feefea0b13d8725b3a7304630c45d1b2a479f92d1cda27c7384d70bdc50",
+  "versionCode": 45,
+  "versionName": "1.0.44",
+  "apkUrl": "https://github.com/goone031/TripFlow-updates/releases/download/v1.0.44/TripFlow-1.0.44.apk",
+  "md5": "05d27658bb0c0c9fa5d8ddb4eee59645",
+  "sha256": "d6e0d0c225e32cbba539d1287a769188cc2f41da624b3d7a2ffed7578d74a739",
   "signerCertSha256": "bf9ae8c26c974d1f97b3a74a65e6564a1a7683e6611914b9a5dc457e65561eda",
-  "notes": "這次請用瀏覽器打開安裝連結，不要在 App 裡下載。舊版會把 App 關掉，安裝畫面出不來。裝好後下次更新會跳出系統安裝畫面。",
+  "notes": "新增典藏：Instagram 或網頁可分享到 Trip Go，依國家地區分類。規劃時同一城市的典藏會優先排入，並標示典藏。舊旅程請再規劃一次才會排進去。",
   "force": false,
-  "releasedAt": "2026-08-20T03:16:47.985Z"
+  "releasedAt": "2026-08-20T03:48:55.438Z"
 }
