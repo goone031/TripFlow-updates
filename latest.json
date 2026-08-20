@@ -3,10 +3,10 @@
   "versionCode": 72,
   "versionName": "1.0.71",
   "apkUrl": "https://github.com/goone031/TripFlow-updates/releases/download/v1.0.71/TripFlow-1.0.71.apk",
-  "md5": "c968bd572717b7b3047428c7b89ad1c3",
-  "sha256": "ed63ef58eb6663b77ed6191a40eb8507a1b923c26859c7b2ea05eec04777a6d2",
+  "md5": "b6e2580c9ec5e3074819583a81ed104c",
+  "sha256": "ff54459de1fe237e3379f1cbc93a25068f49218180aa83452d5c82ea68f6e407",
   "signerCertSha256": "bf9ae8c26c974d1f97b3a74a65e6564a1a7683e6611914b9a5dc457e65561eda",
   "notes": "規劃改先排動線再逐日填店；寫入後背景補網址；點進景點才生備選。",
   "force": false,
-  "releasedAt": "2026-08-20T16:38:56.738Z"
+  "releasedAt": "2026-08-20T16:40:41.883Z"
 }
