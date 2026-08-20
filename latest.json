@@ -1,12 +1,12 @@
 {
   "package": "com.example.tripflow",
-  "versionCode": 48,
-  "versionName": "1.0.47",
-  "apkUrl": "https://github.com/goone031/TripFlow-updates/releases/download/v1.0.47/TripFlow-1.0.47.apk",
-  "md5": "cbf6ed724d45f7f76f433c2d3a06af7e",
-  "sha256": "bbf325fbf36c2f8dd05be3a7094599304c00ddd32ec68aaeba00d8862916c3ed",
+  "versionCode": 49,
+  "versionName": "1.0.48",
+  "apkUrl": "https://github.com/goone031/TripFlow-updates/releases/download/v1.0.48/TripFlow-1.0.48.apk",
+  "md5": "b6de971e88a56b3d63eb1de2fc5ddad4",
+  "sha256": "755376597671d4881e0ff2d9aac39c2ee1071c8e768e284cb13fb98a20dc3fe0",
   "signerCertSha256": "bf9ae8c26c974d1f97b3a74a65e6564a1a7683e6611914b9a5dc457e65561eda",
-  "notes": "票價改在建立新旅程裡找。出發與回程同一本日曆，可滑動選日期。花費改依旅程看細項，從設定點進去。不訂票、不寫入行程。",
+  "notes": "機票改打開 Google 機票；最後一天只留一座機場；出發國家可推斷目的地；模擬改到設定；規劃會給備選景點；點行程會把圖針對準中央。",
   "force": false,
-  "releasedAt": "2026-08-20T04:39:58.607Z"
+  "releasedAt": "2026-08-20T05:26:33.901Z"
 }
