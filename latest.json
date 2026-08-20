@@ -1,12 +1,12 @@
 {
   "package": "com.example.tripflow",
-  "versionCode": 69,
-  "versionName": "1.0.68",
-  "apkUrl": "https://github.com/goone031/TripFlow-updates/releases/download/v1.0.68/TripFlow-1.0.68.apk",
-  "md5": "561dd654ed8363cc4317b1c269542a4c",
-  "sha256": "a4955ccee613142f4311f205f4d195cfa9465af01125c6011af9de3fa7f38120",
+  "versionCode": 70,
+  "versionName": "1.0.69",
+  "apkUrl": "https://github.com/goone031/TripFlow-updates/releases/download/v1.0.69/TripFlow-1.0.69.apk",
+  "md5": "2bb36bbdfcd4eb9e7cec458af28fcacb",
+  "sha256": "51dc7b2f35ca13a7ba137619a42ae96d3f9afec63c672cf191cff3e5e506fef0",
   "signerCertSha256": "bf9ae8c26c974d1f97b3a74a65e6564a1a7683e6611914b9a5dc457e65561eda",
-  "notes": "規劃加速：Flash 與一般不再為了備選、網址、缺天打第二次。",
+  "notes": "一按規劃不再把次數用完顯示成忙碌。每天上限已放寬，模型忙碌不扣次數。",
   "force": false,
-  "releasedAt": "2026-08-20T15:48:02.328Z"
+  "releasedAt": "2026-08-20T15:57:28.978Z"
 }
