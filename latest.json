@@ -1,11 +1,12 @@
 {
   "package": "com.example.tripflow",
-  "versionCode": 42,
-  "versionName": "1.0.41",
-  "apkUrl": "https://github.com/goone031/TripFlow-updates/releases/download/v1.0.41/TripFlow-1.0.41.apk",
-  "md5": "616267d774074357f3e2ddec4fe073b7",
-  "sha256": "5f40bac69a69d2bae21a48d13dacb1f9bdde75d96f6bcf9cc509e54207a47b78",
-  "notes": "畫面拿掉 Gemini 與規劃頁除錯鈕；除錯只留設定。拿掉假搜尋和假預約。開始今天行程改跟抵達時間對齊。",
+  "versionCode": 43,
+  "versionName": "1.0.42",
+  "apkUrl": "https://github.com/goone031/TripFlow-updates/releases/download/v1.0.42/TripFlow-1.0.42.apk",
+  "md5": "a9b3a7646c4edc59087103dea2c0253d",
+  "sha256": "e97eed5b503bf075163834fefd006edee18cb4f593464354a2c6e2c966340775",
+  "signerCertSha256": "bf9ae8c26c974d1f97b3a74a65e6564a1a7683e6611914b9a5dc457e65561eda",
+  "notes": "正式簽名。更新不必先關掉 App，下載後在系統畫面按安裝即可。從 1.0.41 裝這版仍可能要按一次系統安裝。",
   "force": false,
-  "releasedAt": "2026-08-20T02:31:41.483Z"
+  "releasedAt": "2026-08-20T02:50:24.829Z"
 }
