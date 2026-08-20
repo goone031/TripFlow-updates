@@ -1,11 +1,11 @@
 {
   "package": "com.example.tripflow",
-  "versionCode": 39,
-  "versionName": "1.0.38",
-  "apkUrl": "https://github.com/goone031/TripFlow-updates/releases/download/v1.0.38/TripFlow-1.0.38.apk",
-  "md5": "eb1caabfa4feccf3a2c46fb5cd591ac2",
-  "sha256": "637170df0e004a1c9fc7fc7a7230ef9f06341ef7b73d8be219c7e836bea06fe1",
-  "notes": "設定可看每次模型花費、各模型平均與累計總花費。",
+  "versionCode": 40,
+  "versionName": "1.0.39",
+  "apkUrl": "https://github.com/goone031/TripFlow-updates/releases/download/v1.0.39/TripFlow-1.0.39.apk",
+  "md5": "79d6af74803c245f477d1fe087137427",
+  "sha256": "1d8be6985d1d49bfd17b8bcb454a0e9c8dfeeb5af086fb19e18103c08fc33d32",
+  "notes": "規劃結果會保留抵達／離開機場圖針；不會再因桃園座標或空港名稱把目的地機場刪掉。",
   "force": false,
-  "releasedAt": "2026-08-20T00:18:37.358Z"
+  "releasedAt": "2026-08-20T01:07:53.156Z"
 }
