@@ -1,12 +1,12 @@
 {
   "package": "com.example.tripflow",
-  "versionCode": 58,
-  "versionName": "1.0.57",
-  "apkUrl": "https://github.com/goone031/TripFlow-updates/releases/download/v1.0.57/TripFlow-1.0.57.apk",
-  "md5": "e383b42ed4e25f7605beb3573b5d1eb2",
-  "sha256": "bd0abafffa859abe53731de70534bc7cf125812c409fd7bafd1f0e53b99aff36",
+  "versionCode": 59,
+  "versionName": "1.0.58",
+  "apkUrl": "https://github.com/goone031/TripFlow-updates/releases/download/v1.0.58/TripFlow-1.0.58.apk",
+  "md5": "77249077cdf85e488478923d79bfdde9",
+  "sha256": "3ac64532915be627a5fb5c79f795226c30d3979876cde6b577223a7652cbb724",
   "signerCertSha256": "bf9ae8c26c974d1f97b3a74a65e6564a1a7683e6611914b9a5dc457e65561eda",
-  "notes": "改連到你的 Cloudflare Worker。規劃與查票價的金鑰請在 Cloudflare 後台貼上，不必重出這支安裝包。",
+  "notes": "齒輪改打開獨立設定頁。使用密碼在設定最上面。舊旅程不用刪。",
   "force": false,
-  "releasedAt": "2026-08-20T11:25:53.727Z"
+  "releasedAt": "2026-08-20T11:46:17.568Z"
 }
