@@ -1,12 +1,12 @@
 {
   "package": "com.example.tripflow",
-  "versionCode": 68,
-  "versionName": "1.0.67",
-  "apkUrl": "https://github.com/goone031/TripFlow-updates/releases/download/v1.0.67/TripFlow-1.0.67.apk",
-  "md5": "2daa1bdc126a316be06c8cbf56b933f2",
-  "sha256": "909b66737d9d1b26a80bc70cf77a7078523c57672f4bc9e365baa870f54976d1",
+  "versionCode": 69,
+  "versionName": "1.0.68",
+  "apkUrl": "https://github.com/goone031/TripFlow-updates/releases/download/v1.0.68/TripFlow-1.0.68.apk",
+  "md5": "561dd654ed8363cc4317b1c269542a4c",
+  "sha256": "a4955ccee613142f4311f205f4d195cfa9465af01125c6011af9de3fa7f38120",
   "signerCertSha256": "bf9ae8c26c974d1f97b3a74a65e6564a1a7683e6611914b9a5dc457e65561eda",
-  "notes": "票價會顯示去程／回程時間，點一檔會帶進抵達與離開時間。",
+  "notes": "規劃加速：Flash 與一般不再為了備選、網址、缺天打第二次。",
   "force": false,
-  "releasedAt": "2026-08-20T15:18:31.713Z"
+  "releasedAt": "2026-08-20T15:48:02.328Z"
 }
