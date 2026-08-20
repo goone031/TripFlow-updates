@@ -1,12 +1,12 @@
 {
   "package": "com.example.tripflow",
-  "versionCode": 56,
-  "versionName": "1.0.55",
-  "apkUrl": "https://github.com/goone031/TripFlow-updates/releases/download/v1.0.55/TripFlow-1.0.55.apk",
-  "md5": "64259fdf39f1d33bad25993296315c32",
-  "sha256": "94cd5d9136910545df6a130a077e82733e494ddd9bd7bfaef0ac9cd2cdd05d45",
+  "versionCode": 57,
+  "versionName": "1.0.56",
+  "apkUrl": "https://github.com/goone031/TripFlow-updates/releases/download/v1.0.56/TripFlow-1.0.56.apk",
+  "md5": "108db2475fc9538ca5ead422f2da3da3",
+  "sha256": "ade3843d298814aeac2a7d0396f92d65178d6f0a0e3c87c7c758b25c7f87daa3",
   "signerCertSha256": "bf9ae8c26c974d1f97b3a74a65e6564a1a7683e6611914b9a5dc457e65561eda",
-  "notes": "規劃與查價改走後端，App 不再內建金鑰。查價金鑰也不用再貼在手機裡。",
+  "notes": "設定長按目前版本可貼使用密碼。規劃和查票價會帶上它。",
   "force": false,
-  "releasedAt": "2026-08-20T10:10:48.991Z"
+  "releasedAt": "2026-08-20T10:28:30.385Z"
 }
