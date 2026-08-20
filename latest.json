@@ -1,11 +1,11 @@
 {
   "package": "com.example.tripflow",
-  "versionCode": 41,
-  "versionName": "1.0.40",
-  "apkUrl": "https://github.com/goone031/TripFlow-updates/releases/download/v1.0.40/TripFlow-1.0.40.apk",
-  "md5": "1e6caec665f2f3c8de9be44304cb55cf",
-  "sha256": "d3b783eef42717a0bcf0cdd677d041d94dc9820ed968408061e53ac890f54635",
-  "notes": "規劃後第一天第一站固定是抵達機場，最後一天最後一站固定是離開機場；問卷填桃園也不會把目的地機場刪掉。",
+  "versionCode": 42,
+  "versionName": "1.0.41",
+  "apkUrl": "https://github.com/goone031/TripFlow-updates/releases/download/v1.0.41/TripFlow-1.0.41.apk",
+  "md5": "616267d774074357f3e2ddec4fe073b7",
+  "sha256": "5f40bac69a69d2bae21a48d13dacb1f9bdde75d96f6bcf9cc509e54207a47b78",
+  "notes": "畫面拿掉 Gemini 與規劃頁除錯鈕；除錯只留設定。拿掉假搜尋和假預約。開始今天行程改跟抵達時間對齊。",
   "force": false,
-  "releasedAt": "2026-08-20T01:35:20.839Z"
+  "releasedAt": "2026-08-20T02:31:41.483Z"
 }
