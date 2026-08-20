@@ -1,12 +1,12 @@
 {
   "package": "com.example.tripflow",
-  "versionCode": 51,
-  "versionName": "1.0.50",
-  "apkUrl": "https://github.com/goone031/TripFlow-updates/releases/download/v1.0.50/TripFlow-1.0.50.apk",
-  "md5": "42daf610d8ee674a2f51410f45042c3b",
-  "sha256": "4af02ec1cb334eac3bffde394467ce74a65aa3226381ad1bee97898fe8bcddea",
+  "versionCode": 52,
+  "versionName": "1.0.51",
+  "apkUrl": "https://github.com/goone031/TripFlow-updates/releases/download/v1.0.51/TripFlow-1.0.51.apk",
+  "md5": "3ddc7da2a88c7170a5bdef3d6945e831",
+  "sha256": "72dfb0c0e3e6f482d0c68d2935f9240fda72abc4ac43e77327c203b610884e9f",
   "signerCertSha256": "bf9ae8c26c974d1f97b3a74a65e6564a1a7683e6611914b9a5dc457e65561eda",
-  "notes": "選其他可鍵盤輸入城市。問卷問完交通預算與票券才進總結。規劃忙碌會說明備用。",
+  "notes": "圖針可開 Google 地圖導航。典藏與 Reels 改走較快整理。",
   "force": false,
-  "releasedAt": "2026-08-20T06:09:36.473Z"
+  "releasedAt": "2026-08-20T06:30:38.298Z"
 }
