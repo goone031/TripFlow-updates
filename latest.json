@@ -1,12 +1,12 @@
 {
   "package": "com.example.tripflow",
-  "versionCode": 67,
-  "versionName": "1.0.66",
-  "apkUrl": "https://github.com/goone031/TripFlow-updates/releases/download/v1.0.66/TripFlow-1.0.66.apk",
-  "md5": "ef59780caf2f27a33a8406934b4a5a12",
-  "sha256": "fc2e64b11390a54c4ebb25b6e9f3f7da0bc8b99bcf2f62aeaa259e6a548735c1",
+  "versionCode": 68,
+  "versionName": "1.0.67",
+  "apkUrl": "https://github.com/goone031/TripFlow-updates/releases/download/v1.0.67/TripFlow-1.0.67.apk",
+  "md5": "2daa1bdc126a316be06c8cbf56b933f2",
+  "sha256": "909b66737d9d1b26a80bc70cf77a7078523c57672f4bc9e365baa870f54976d1",
   "signerCertSha256": "bf9ae8c26c974d1f97b3a74a65e6564a1a7683e6611914b9a5dc457e65561eda",
-  "notes": "第一天同一座北九州機場不再重複出現；裝好後打開舊行程就會收成一個。",
+  "notes": "票價會顯示去程／回程時間，點一檔會帶進抵達與離開時間。",
   "force": false,
-  "releasedAt": "2026-08-20T14:28:14.691Z"
+  "releasedAt": "2026-08-20T15:18:31.713Z"
 }
