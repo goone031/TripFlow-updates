@@ -1,12 +1,12 @@
 {
   "package": "com.example.tripflow",
-  "versionCode": 63,
-  "versionName": "1.0.62",
-  "apkUrl": "https://github.com/goone031/TripFlow-updates/releases/download/v1.0.62/TripFlow-1.0.62.apk",
-  "md5": "fa664f28b939af3c1e91f0ae35cf5089",
-  "sha256": "0da69534eef852b5beb81818e96102fb1060f9bf628a77048c1d31fac47234d1",
+  "versionCode": 65,
+  "versionName": "1.0.64",
+  "apkUrl": "https://github.com/goone031/TripFlow-updates/releases/download/v1.0.64/TripFlow-1.0.64.apk",
+  "md5": "1f020437dbbd5c32764748c793f12063",
+  "sha256": "4c4e9f5edf2438fd364e4a5a40c0327e2c9fe1dcc4e6b42582e6a2d5f72329da",
   "signerCertSha256": "bf9ae8c26c974d1f97b3a74a65e6564a1a7683e6611914b9a5dc457e65561eda",
-  "notes": "規劃失敗後不必重填。條件還在，可直接再規劃。",
+  "notes": "可選 OpenRouter 當規劃備援。金鑰貼 Cloudflare，不必 OpenAI。Gemini 忙碌時會改用。",
   "force": false,
-  "releasedAt": "2026-08-20T13:15:23.496Z"
+  "releasedAt": "2026-08-20T13:50:20.276Z"
 }
