@@ -1,12 +1,12 @@
 {
   "package": "com.example.tripflow",
-  "versionCode": 45,
-  "versionName": "1.0.44",
-  "apkUrl": "https://github.com/goone031/TripFlow-updates/releases/download/v1.0.44/TripFlow-1.0.44.apk",
-  "md5": "05d27658bb0c0c9fa5d8ddb4eee59645",
-  "sha256": "d6e0d0c225e32cbba539d1287a769188cc2f41da624b3d7a2ffed7578d74a739",
+  "versionCode": 46,
+  "versionName": "1.0.45",
+  "apkUrl": "https://github.com/goone031/TripFlow-updates/releases/download/v1.0.45/TripFlow-1.0.45.apk",
+  "md5": "8070c69970e34ea697e1f2d2bab35532",
+  "sha256": "f60b5e061b3ac8ae904ca1224b2c2aa19838fea318d730dc680754791fa882c2",
   "signerCertSha256": "bf9ae8c26c974d1f97b3a74a65e6564a1a7683e6611914b9a5dc457e65561eda",
-  "notes": "新增典藏：Instagram 或網頁可分享到 Trip Go，依國家地區分類。規劃時同一城市的典藏會優先排入，並標示典藏。舊旅程請再規劃一次才會排進去。",
+  "notes": "新增便宜時段。選城市、月份、天數，自動列出可飛航空，可勾廉航、非廉航、來回同一家，查出前五個便宜來回。不會訂票，也不會寫入行程。第一次請免費申請查價帳號並貼上。舊旅程不用刪。",
   "force": false,
-  "releasedAt": "2026-08-20T03:48:55.438Z"
+  "releasedAt": "2026-08-20T04:11:52.925Z"
 }
