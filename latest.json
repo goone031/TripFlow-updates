@@ -1,12 +1,12 @@
 {
   "package": "com.example.tripflow",
-  "versionCode": 65,
-  "versionName": "1.0.64",
-  "apkUrl": "https://github.com/goone031/TripFlow-updates/releases/download/v1.0.64/TripFlow-1.0.64.apk",
-  "md5": "1f020437dbbd5c32764748c793f12063",
-  "sha256": "4c4e9f5edf2438fd364e4a5a40c0327e2c9fe1dcc4e6b42582e6a2d5f72329da",
+  "versionCode": 66,
+  "versionName": "1.0.65",
+  "apkUrl": "https://github.com/goone031/TripFlow-updates/releases/download/v1.0.65/TripFlow-1.0.65.apk",
+  "md5": "8ecd9081a2a64e45f2d4c609b54e9b4c",
+  "sha256": "8462f78f54399574f38d642042c4eeab78721944d2e8c9fee022855390fcf190",
   "signerCertSha256": "bf9ae8c26c974d1f97b3a74a65e6564a1a7683e6611914b9a5dc457e65561eda",
-  "notes": "可選 OpenRouter 當規劃備援。金鑰貼 Cloudflare，不必 OpenAI。Gemini 忙碌時會改用。",
+  "notes": "規劃版本新增 Grok、DeepSeek V4 Flash、ChatGPT 5.6、Luna High。都走 OpenRouter 金鑰。",
   "force": false,
-  "releasedAt": "2026-08-20T13:50:20.276Z"
+  "releasedAt": "2026-08-20T13:58:57.634Z"
 }
