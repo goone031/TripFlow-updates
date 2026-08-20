@@ -1,12 +1,12 @@
 {
   "package": "com.example.tripflow",
-  "versionCode": 74,
-  "versionName": "1.0.73",
-  "apkUrl": "https://github.com/goone031/TripFlow-updates/releases/download/v1.0.73/TripFlow-1.0.73.apk",
-  "md5": "901a9045905d86442ea34d99c5e42b61",
-  "sha256": "e47ec98d6044ab4a3c1249f388a981ff8aa240319dabef6d80bcd7fba4fb0798",
+  "versionCode": 75,
+  "versionName": "1.0.74",
+  "apkUrl": "https://github.com/goone031/TripFlow-updates/releases/download/v1.0.74/TripFlow-1.0.74.apk",
+  "md5": "0293e211d5718b91480abb2c5e53db02",
+  "sha256": "d71a41566e51cdf5f059b5566904c05a551790eddc6c67267cfb40267eab986b",
   "signerCertSha256": "bf9ae8c26c974d1f97b3a74a65e6564a1a7683e6611914b9a5dc457e65561eda",
-  "notes": "規劃中可以關螢幕。通知列會顯示進度，完成或失敗會再通知你。",
+  "notes": "規劃加速：排完動線後，每一天同時填店（不再一天一天等）；填店改用較快速度，排動線仍保持仔細。",
   "force": false,
-  "releasedAt": "2026-08-20T17:21:50.187Z"
+  "releasedAt": "2026-08-20T17:29:44.033Z"
 }
