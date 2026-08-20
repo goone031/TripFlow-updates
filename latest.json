@@ -1,12 +1,12 @@
 {
   "package": "com.example.tripflow",
-  "versionCode": 55,
-  "versionName": "1.0.54",
-  "apkUrl": "https://github.com/goone031/TripFlow-updates/releases/download/v1.0.54/TripFlow-1.0.54.apk",
-  "md5": "5b39d6966203f86ddd2d992ecead4593",
-  "sha256": "1991c2d65311877536e2ea3b992c8f451601b01c4842112be038242203087f12",
+  "versionCode": 56,
+  "versionName": "1.0.55",
+  "apkUrl": "https://github.com/goone031/TripFlow-updates/releases/download/v1.0.55/TripFlow-1.0.55.apk",
+  "md5": "64259fdf39f1d33bad25993296315c32",
+  "sha256": "94cd5d9136910545df6a130a077e82733e494ddd9bd7bfaef0ac9cd2cdd05d45",
   "signerCertSha256": "bf9ae8c26c974d1f97b3a74a65e6564a1a7683e6611914b9a5dc457e65561eda",
-  "notes": "建立旅程可找出這個月前五個便宜時段。把查價金鑰貼上就能查。點一檔只填日期，不能付款。沒金鑰仍可打開 Google 機票。",
+  "notes": "規劃與查價改走後端，App 不再內建金鑰。查價金鑰也不用再貼在手機裡。",
   "force": false,
-  "releasedAt": "2026-08-20T07:51:20.978Z"
+  "releasedAt": "2026-08-20T10:10:48.991Z"
 }
