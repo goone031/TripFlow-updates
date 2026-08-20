@@ -1,12 +1,12 @@
 {
   "package": "com.example.tripflow",
-  "versionCode": 72,
-  "versionName": "1.0.71",
-  "apkUrl": "https://github.com/goone031/TripFlow-updates/releases/download/v1.0.71/TripFlow-1.0.71.apk",
-  "md5": "b6e2580c9ec5e3074819583a81ed104c",
-  "sha256": "ff54459de1fe237e3379f1cbc93a25068f49218180aa83452d5c82ea68f6e407",
+  "versionCode": 73,
+  "versionName": "1.0.72",
+  "apkUrl": "https://github.com/goone031/TripFlow-updates/releases/download/v1.0.72/TripFlow-1.0.72.apk",
+  "md5": "4909aa5021793a7d30e5b5bdac32e650",
+  "sha256": "9687edea2990888ddf7c13e2199f445410233ed037a4be6593484191164d2073",
   "signerCertSha256": "bf9ae8c26c974d1f97b3a74a65e6564a1a7683e6611914b9a5dc457e65561eda",
-  "notes": "規劃改先排動線再逐日填店；寫入後背景補網址；點進景點才生備選。",
+  "notes": "行程頁可輸入名稱或地址新增地點；長按景點可編輯、找備選或刪除。",
   "force": false,
-  "releasedAt": "2026-08-20T16:40:41.883Z"
+  "releasedAt": "2026-08-20T17:02:05.976Z"
 }
