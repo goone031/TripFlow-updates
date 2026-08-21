@@ -1,12 +1,12 @@
 {
   "package": "com.example.tripflow",
-  "versionCode": 77,
-  "versionName": "1.0.76",
-  "apkUrl": "https://github.com/goone031/TripFlow-updates/releases/download/v1.0.76/TripFlow-1.0.76.apk",
-  "md5": "90ecb4512f110400ac9458d3eccefee3",
-  "sha256": "e09ce8d3d80347d47e6172454b09e1835c737cd1f51d22836f596a90489f2988",
+  "versionCode": 78,
+  "versionName": "1.0.77",
+  "apkUrl": "https://github.com/goone031/TripFlow-updates/releases/download/v1.0.77/TripFlow-1.0.77.apk",
+  "md5": "bf74acddb6b9c100b576f842aecc6c4a",
+  "sha256": "b5a8858580c42e7f826142f65a79bea195d97e535effdb7bcfad13a25b91eb3d",
   "signerCertSha256": "bf9ae8c26c974d1f97b3a74a65e6564a1a7683e6611914b9a5dc457e65561eda",
-  "notes": "餐點一定給具體店名，不再出現「附近午餐」或空著；聊天問卷不再誤判離題、不再重複提問；推理等級簡化為仔細／一般／快速；花費統計與模擬旅程移到長按「目前版本」的隱藏頁；1～2 天的行程規劃更快；規劃改為優先使用你電腦上的模型（電腦開著並啟動橋接程式時），雲端模型自動備援。",
+  "notes": "規劃不再有等待上限：只要還在進行就會一直等到排完，只有你自己按取消才會停。電腦上的本機模型救場時間也拉長，長行程更不容易失敗。",
   "force": false,
-  "releasedAt": "2026-08-21T05:57:20.051Z"
+  "releasedAt": "2026-08-21T09:11:22.496Z"
 }
