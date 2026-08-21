@@ -1,12 +1,12 @@
 {
   "package": "com.example.tripflow",
-  "versionCode": 75,
-  "versionName": "1.0.74",
-  "apkUrl": "https://github.com/goone031/TripFlow-updates/releases/download/v1.0.74/TripFlow-1.0.74.apk",
-  "md5": "0293e211d5718b91480abb2c5e53db02",
-  "sha256": "d71a41566e51cdf5f059b5566904c05a551790eddc6c67267cfb40267eab986b",
+  "versionCode": 76,
+  "versionName": "1.0.75",
+  "apkUrl": "https://github.com/goone031/TripFlow-updates/releases/download/v1.0.75/TripFlow-1.0.75.apk",
+  "md5": "248c3f15a2a01ee1b53687ebdc132a10",
+  "sha256": "edbf61fc327970d06c4bc966be06dc9de2e5277a66b4e6d09c4f5e9cd7216264",
   "signerCertSha256": "bf9ae8c26c974d1f97b3a74a65e6564a1a7683e6611914b9a5dc457e65561eda",
-  "notes": "規劃加速：排完動線後，每一天同時填店（不再一天一天等）；填店改用較快速度，排動線仍保持仔細。",
+  "notes": "神戶與各國城市機場修正：城市可點選機場、關西不再誤判、查價支援所有名單城市",
   "force": false,
-  "releasedAt": "2026-08-20T17:29:44.033Z"
+  "releasedAt": "2026-08-21T03:19:49.541Z"
 }
