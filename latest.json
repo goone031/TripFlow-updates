@@ -1,12 +1,12 @@
 {
   "package": "com.example.tripflow",
-  "versionCode": 82,
-  "versionName": "1.0.81",
-  "apkUrl": "https://github.com/goone031/TripFlow-updates/releases/download/v1.0.81/TripFlow-1.0.81.apk",
-  "md5": "642a1b6d226c52203effde2d8295e9d5",
-  "sha256": "363c19ed2e34e96d1b6f2193e363f7566bcc4ff6a73358e0b12356e50c279926",
+  "versionCode": 83,
+  "versionName": "1.0.82",
+  "apkUrl": "https://github.com/goone031/TripFlow-updates/releases/download/v1.0.82/TripFlow-1.0.82.apk",
+  "md5": "c4b5acba19147b012b0b55d243bb868c",
+  "sha256": "037dc3080eceb27e7050a40f7956718ecdb806e60d45ad376cb2681b16d98fd5",
   "signerCertSha256": "bf9ae8c26c974d1f97b3a74a65e6564a1a7683e6611914b9a5dc457e65561eda",
-  "notes": "全新外觀：新圖示、外觀與色彩主題、行程頁排版更新。規劃更快：AI 回覆量減半、圖針座標改用真實地點資料不再釘錯。新增行程對話與逐日重排。設定長按版本號可開「快速規劃（實驗）」：一次選點、本機排程，天數多也一樣快。",
+  "notes": "安全強化：使用密碼改為一人一把（請更新後重新貼上你的新密碼，見雲端硬碟「TripGo-使用密碼」）；所有雲端服務都需密碼驗證；關閉系統備份。並修正「快速規劃（實驗）」開關重開 App 後失效的問題。",
   "force": false,
-  "releasedAt": "2026-08-21T14:29:29.048Z"
+  "releasedAt": "2026-08-22T03:07:25.630Z"
 }
