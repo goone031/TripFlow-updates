@@ -1,12 +1,12 @@
 {
   "package": "com.example.tripflow",
-  "versionCode": 85,
-  "versionName": "1.0.84",
-  "apkUrl": "https://github.com/goone031/TripFlow-updates/releases/download/v1.0.84/TripFlow-1.0.84.apk",
-  "md5": "6893e8b2e5294a366c92ddb65d012eb5",
-  "sha256": "2013a9339cf7662e13fc4388d730b7baf9baa0e710eefb5d9494dd95e1771625",
+  "versionCode": 86,
+  "versionName": "1.0.85",
+  "apkUrl": "https://github.com/goone031/TripFlow-updates/releases/download/v1.0.85/TripFlow-1.0.85.apk",
+  "md5": "960275872f8c3712d5b4139b18276dbf",
+  "sha256": "db1594ff3599903f1f140cd4f69e79316971164dfdc34aa32170be583227f178",
   "signerCertSha256": "bf9ae8c26c974d1f97b3a74a65e6564a1a7683e6611914b9a5dc457e65561eda",
-  "notes": "與 iOS 版同步：最後一天早班機安排更合理、點地圖可直接搜尋地點、行程改用星期分頁、問卷流程補完；並修正設定頁長按的相容性。",
+  "notes": "地圖操作優化：輕點空白地圖不再誤開搜尋（只關閉卡片），改為長按地圖才搜尋附近地點；點圖針看資訊更順手。",
   "force": false,
-  "releasedAt": "2026-08-22T08:30:46.865Z"
+  "releasedAt": "2026-08-22T13:00:42.696Z"
 }
