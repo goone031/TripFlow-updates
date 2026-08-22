@@ -1,12 +1,12 @@
 {
   "package": "com.example.tripflow",
-  "versionCode": 87,
-  "versionName": "1.0.86",
-  "apkUrl": "https://github.com/goone031/TripFlow-updates/releases/download/v1.0.86/TripFlow-1.0.86.apk",
-  "md5": "222ade36fb0f8b264723574aba9c11a0",
-  "sha256": "dc98ea7b0d1974f0b1085915905c3907aac5e96ed205986eae6c7961ec3a09a3",
+  "versionCode": 88,
+  "versionName": "1.0.87",
+  "apkUrl": "https://github.com/goone031/TripFlow-updates/releases/download/v1.0.87/TripFlow-1.0.87.apk",
+  "md5": "c2b6892e6544d7b6a67e614bd6989287",
+  "sha256": "7491d8293c68a4862e202c2c4cb1d27b2fdb2bde41f064fd34141960b47ac5c9",
   "signerCertSha256": "bf9ae8c26c974d1f97b3a74a65e6564a1a7683e6611914b9a5dc457e65561eda",
-  "notes": "對話問卷不再重複提問，問到必要資訊就能直接開始規劃。開啟「快速規劃」時，填問卷期間就先把行程排好，按下規劃幾乎立刻出結果。修正建立旅程時輸入欄被鍵盤擋住的問題。",
+  "notes": "對話問卷會直接告訴你「開始規劃前還缺哪幾項」，不再霧裡問答；並強化問答診斷紀錄，問題一份除錯紀錄就能定位。",
   "force": false,
-  "releasedAt": "2026-08-22T13:46:14.775Z"
+  "releasedAt": "2026-08-22T14:54:40.059Z"
 }
