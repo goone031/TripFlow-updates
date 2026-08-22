@@ -1,12 +1,12 @@
 {
   "package": "com.example.tripflow",
-  "versionCode": 89,
-  "versionName": "1.0.88",
-  "apkUrl": "https://github.com/goone031/TripFlow-updates/releases/download/v1.0.88/TripFlow-1.0.88.apk",
-  "md5": "1af62fe9912636c92da093d0f0556916",
-  "sha256": "082f9805bbc3144f6dffd0a54b030f7f4fb63e10498dca064d5c89b3405e0af5",
+  "versionCode": 90,
+  "versionName": "1.0.89",
+  "apkUrl": "https://github.com/goone031/TripFlow-updates/releases/download/v1.0.89/TripFlow-1.0.89.apk",
+  "md5": "ff8072dc42f0435efa828242d1379f1e",
+  "sha256": "9ab39ee0f51ca2654d40a79d9765444c9c733afec9e62cf4d97255a8c457b050",
   "signerCertSha256": "bf9ae8c26c974d1f97b3a74a65e6564a1a7683e6611914b9a5dc457e65561eda",
-  "notes": "對話問卷三修：你答過的一定會被記住（不再重複提問）；已選機場只問時間；回覆會列出還缺哪幾項。",
+  "notes": "行程品質修復：多天行程不再有某幾天悄悄排失敗（那是路線繞路的主因），忙碌時會自動換備用模型重試。點圖針的資訊卡恢復正常；按鈕文字置中。",
   "force": false,
-  "releasedAt": "2026-08-22T15:30:40.121Z"
+  "releasedAt": "2026-08-22T17:19:03.889Z"
 }
