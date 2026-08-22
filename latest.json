@@ -1,12 +1,12 @@
 {
   "package": "com.example.tripflow",
-  "versionCode": 83,
-  "versionName": "1.0.82",
-  "apkUrl": "https://github.com/goone031/TripFlow-updates/releases/download/v1.0.82/TripFlow-1.0.82.apk",
-  "md5": "c4b5acba19147b012b0b55d243bb868c",
-  "sha256": "037dc3080eceb27e7050a40f7956718ecdb806e60d45ad376cb2681b16d98fd5",
+  "versionCode": 84,
+  "versionName": "1.0.83",
+  "apkUrl": "https://github.com/goone031/TripFlow-updates/releases/download/v1.0.83/TripFlow-1.0.83.apk",
+  "md5": "a5507a7147071cf97dab5ec3dc25e849",
+  "sha256": "ff9dcf6764cd4c9e60d7d948d7d67a3f84e041aaaf895d0882a631334a441923",
   "signerCertSha256": "bf9ae8c26c974d1f97b3a74a65e6564a1a7683e6611914b9a5dc457e65561eda",
-  "notes": "安全強化：使用密碼改為一人一把（請更新後重新貼上你的新密碼，見雲端硬碟「TripGo-使用密碼」）；所有雲端服務都需密碼驗證；關閉系統備份。並修正「快速規劃（實驗）」開關重開 App 後失效的問題。",
+  "notes": "家人版：設定頁輸入邀請碼即可啟用裝置，不用再貼長密碼。景點卡顯示營業時間、評分與「現在可能未營業」提醒（Google 資料）。任何城鎮都能規劃（自動找座標與最近機場）。預設改為一般推理更快；你的規劃優先使用自家電腦模型。",
   "force": false,
-  "releasedAt": "2026-08-22T03:07:25.630Z"
+  "releasedAt": "2026-08-22T06:09:06.118Z"
 }
