@@ -1,12 +1,12 @@
 {
   "package": "com.example.tripflow",
-  "versionCode": 84,
-  "versionName": "1.0.83",
-  "apkUrl": "https://github.com/goone031/TripFlow-updates/releases/download/v1.0.83/TripFlow-1.0.83.apk",
-  "md5": "a5507a7147071cf97dab5ec3dc25e849",
-  "sha256": "ff9dcf6764cd4c9e60d7d948d7d67a3f84e041aaaf895d0882a631334a441923",
+  "versionCode": 85,
+  "versionName": "1.0.84",
+  "apkUrl": "https://github.com/goone031/TripFlow-updates/releases/download/v1.0.84/TripFlow-1.0.84.apk",
+  "md5": "6893e8b2e5294a366c92ddb65d012eb5",
+  "sha256": "2013a9339cf7662e13fc4388d730b7baf9baa0e710eefb5d9494dd95e1771625",
   "signerCertSha256": "bf9ae8c26c974d1f97b3a74a65e6564a1a7683e6611914b9a5dc457e65561eda",
-  "notes": "家人版：設定頁輸入邀請碼即可啟用裝置，不用再貼長密碼。景點卡顯示營業時間、評分與「現在可能未營業」提醒（Google 資料）。任何城鎮都能規劃（自動找座標與最近機場）。預設改為一般推理更快；你的規劃優先使用自家電腦模型。",
+  "notes": "與 iOS 版同步：最後一天早班機安排更合理、點地圖可直接搜尋地點、行程改用星期分頁、問卷流程補完；並修正設定頁長按的相容性。",
   "force": false,
-  "releasedAt": "2026-08-22T06:09:06.118Z"
+  "releasedAt": "2026-08-22T08:30:46.865Z"
 }
