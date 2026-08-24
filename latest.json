@@ -1,12 +1,12 @@
 {
   "package": "com.example.tripflow",
-  "versionCode": 92,
-  "versionName": "1.0.91",
-  "apkUrl": "https://github.com/goone031/TripFlow-updates/releases/download/v1.0.91/TripFlow-1.0.91.apk",
-  "md5": "608e0e0140b2f0dd978c903a403f2928",
-  "sha256": "a7dde20ffc54ade957d559bfd4517eff8eab9a402b58c70f8fe3d031a7c14e21",
+  "versionCode": 93,
+  "versionName": "1.0.92",
+  "apkUrl": "https://github.com/goone031/TripFlow-updates/releases/download/v1.0.92/TripFlow-1.0.92.apk",
+  "md5": "eb33eb6cc657b4204c17802a74ed4d9c",
+  "sha256": "974a853284d5408f6316f5972972d56f0459c297390dbac6d5fb1f69b6fb06bb",
   "signerCertSha256": "bf9ae8c26c974d1f97b3a74a65e6564a1a7683e6611914b9a5dc457e65561eda",
-  "notes": "快速規劃大改：同時排三個版本（順路／美食／經典），由評審依真實距離挑最順的一版；殘餘繞路自動拉直，不再「先跑遠再折返」。",
+  "notes": "規劃全面改為三版本決一：三個偏好版本同場比稿、評審依真實距離挑最順的一版；移除會搶先出手的舊排程快取；餐廳補位改為忙碌時自動換備用模型，不再丟「自選」。",
   "force": false,
-  "releasedAt": "2026-08-24T14:44:35.819Z"
+  "releasedAt": "2026-08-24T15:54:05.116Z"
 }
