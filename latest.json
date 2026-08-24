@@ -1,12 +1,12 @@
 {
   "package": "com.example.tripflow",
-  "versionCode": 93,
-  "versionName": "1.0.92",
-  "apkUrl": "https://github.com/goone031/TripFlow-updates/releases/download/v1.0.92/TripFlow-1.0.92.apk",
-  "md5": "eb33eb6cc657b4204c17802a74ed4d9c",
-  "sha256": "974a853284d5408f6316f5972972d56f0459c297390dbac6d5fb1f69b6fb06bb",
+  "versionCode": 94,
+  "versionName": "1.0.93",
+  "apkUrl": "https://github.com/goone031/TripFlow-updates/releases/download/v1.0.93/TripFlow-1.0.93.apk",
+  "md5": "74fcea9bd67fac20b42fa960f78dfaa6",
+  "sha256": "59aac0af68c7bab483e0fc67e70fdcd98916ce05b262aa9246c304c433662344",
   "signerCertSha256": "bf9ae8c26c974d1f97b3a74a65e6564a1a7683e6611914b9a5dc457e65561eda",
-  "notes": "規劃全面改為三版本決一：三個偏好版本同場比稿、評審依真實距離挑最順的一版；移除會搶先出手的舊排程快取；餐廳補位改為忙碌時自動換備用模型，不再丟「自選」。",
+  "notes": "寫入行程被擋時，畫面會直接寫出原因，除錯紀錄也會記下來；規劃結果的有效時間從 30 分鐘放寬到 12 小時，慢慢看預覽也不會過期。",
   "force": false,
-  "releasedAt": "2026-08-24T15:54:05.116Z"
+  "releasedAt": "2026-08-24T22:39:43.325Z"
 }
