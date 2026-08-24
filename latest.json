@@ -1,12 +1,12 @@
 {
   "package": "com.example.tripflow",
-  "versionCode": 90,
-  "versionName": "1.0.89",
-  "apkUrl": "https://github.com/goone031/TripFlow-updates/releases/download/v1.0.89/TripFlow-1.0.89.apk",
-  "md5": "ff8072dc42f0435efa828242d1379f1e",
-  "sha256": "9ab39ee0f51ca2654d40a79d9765444c9c733afec9e62cf4d97255a8c457b050",
+  "versionCode": 92,
+  "versionName": "1.0.91",
+  "apkUrl": "https://github.com/goone031/TripFlow-updates/releases/download/v1.0.91/TripFlow-1.0.91.apk",
+  "md5": "608e0e0140b2f0dd978c903a403f2928",
+  "sha256": "a7dde20ffc54ade957d559bfd4517eff8eab9a402b58c70f8fe3d031a7c14e21",
   "signerCertSha256": "bf9ae8c26c974d1f97b3a74a65e6564a1a7683e6611914b9a5dc457e65561eda",
-  "notes": "行程品質修復：多天行程不再有某幾天悄悄排失敗（那是路線繞路的主因），忙碌時會自動換備用模型重試。點圖針的資訊卡恢復正常；按鈕文字置中。",
+  "notes": "快速規劃大改：同時排三個版本（順路／美食／經典），由評審依真實距離挑最順的一版；殘餘繞路自動拉直，不再「先跑遠再折返」。",
   "force": false,
-  "releasedAt": "2026-08-22T17:19:03.889Z"
+  "releasedAt": "2026-08-24T14:44:35.819Z"
 }
