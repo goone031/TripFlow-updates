@@ -1,12 +1,12 @@
 {
   "package": "com.example.tripflow",
-  "versionCode": 96,
-  "versionName": "1.0.95",
-  "apkUrl": "https://github.com/goone031/TripFlow-updates/releases/download/v1.0.95/TripFlow-1.0.95.apk",
-  "md5": "411329f99bac869328379562fbd4f76c",
-  "sha256": "5c982fce37e6ab82676d8802909795a0fef4e135e65df42134571f20f84819c3",
+  "versionCode": 97,
+  "versionName": "1.0.96",
+  "apkUrl": "https://github.com/goone031/TripFlow-updates/releases/download/v1.0.96/TripFlow-1.0.96.apk",
+  "md5": "56774357980ecaa466254bf7f2f2e96e",
+  "sha256": "48b93e8520ea14efafa1c69c0e353c33690a2f4bbe1dedef2c8cc58729f13e78",
   "signerCertSha256": "bf9ae8c26c974d1f97b3a74a65e6564a1a7683e6611914b9a5dc457e65561eda",
-  "notes": "規劃分工大改：三位選品人（社群口碑、經典、美食）同時挑店，App 查好真實座標並把鄰近的分成群，再由一位排程師一次排出三個版本，最後評審盲選最順的一版。App 會開始記住你的口味（存在手機裡），問答、選店、評審都會參考。",
+  "notes": "修好今早規劃全滅的主因：網路瞬斷或回應被切斷時會自動換備用模型重試，不再整批失敗。對話開場的建議按鈕也改由模型出題。",
   "force": false,
-  "releasedAt": "2026-08-25T01:30:49.431Z"
+  "releasedAt": "2026-08-25T03:23:46.522Z"
 }
