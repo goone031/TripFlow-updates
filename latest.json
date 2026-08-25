@@ -1,12 +1,12 @@
 {
   "package": "com.example.tripflow",
-  "versionCode": 95,
-  "versionName": "1.0.94",
-  "apkUrl": "https://github.com/goone031/TripFlow-updates/releases/download/v1.0.94/TripFlow-1.0.94.apk",
-  "md5": "a424bfa98794f5586bafec49f5a7bb32",
-  "sha256": "6d95b940995586e2118b5d87f709e29c61ffe4ba1e39bbd0c7f4518d44d9b4aa",
+  "versionCode": 96,
+  "versionName": "1.0.95",
+  "apkUrl": "https://github.com/goone031/TripFlow-updates/releases/download/v1.0.95/TripFlow-1.0.95.apk",
+  "md5": "411329f99bac869328379562fbd4f76c",
+  "sha256": "5c982fce37e6ab82676d8802909795a0fef4e135e65df42134571f20f84819c3",
   "signerCertSha256": "bf9ae8c26c974d1f97b3a74a65e6564a1a7683e6611914b9a5dc457e65561eda",
-  "notes": "問答改由模型主導：聊天更自然、不再出現對不上題目的建議與內建題，模型會從整段對話自己整理需求。三版本比稿沒被選上的景點和餐廳，現在會掛成同一天的備選，點地圖正選就看得到。",
+  "notes": "規劃分工大改：三位選品人（社群口碑、經典、美食）同時挑店，App 查好真實座標並把鄰近的分成群，再由一位排程師一次排出三個版本，最後評審盲選最順的一版。App 會開始記住你的口味（存在手機裡），問答、選店、評審都會參考。",
   "force": false,
-  "releasedAt": "2026-08-25T00:59:33.579Z"
+  "releasedAt": "2026-08-25T01:30:49.431Z"
 }
