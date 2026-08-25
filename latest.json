@@ -1,12 +1,12 @@
 {
   "package": "com.example.tripflow",
-  "versionCode": 98,
-  "versionName": "1.0.97",
-  "apkUrl": "https://github.com/goone031/TripFlow-updates/releases/download/v1.0.97/TripFlow-1.0.97.apk",
-  "md5": "5ab75c4df45690d339557b633d63266b",
-  "sha256": "680a298898567eaceda7a7b776f86bac4483bac9c0adc122b79759a1e031b155",
+  "versionCode": 99,
+  "versionName": "1.0.98",
+  "apkUrl": "https://github.com/goone031/TripFlow-updates/releases/download/v1.0.98/TripFlow-1.0.98.apk",
+  "md5": "8fb5ee99d8588054bc863cf6e0a2f3f0",
+  "sha256": "6226d550381fbde08a0ec97e52b9f229660fdd817c82ebe108f756d0fafa0d39",
   "signerCertSha256": "bf9ae8c26c974d1f97b3a74a65e6564a1a7683e6611914b9a5dc457e65561eda",
-  "notes": "問答不再卡條件：預算、預約這些沒特別想法就標「未特別指定」交給規劃，不會再一直說缺。你在對話裡講過的每句話都會原封帶給規劃參考，不怕漏記。",
+  "notes": "修好「一直重問答過的問題」：問答改用理解力較好的模型、對話記憶從 4 輪拉長到 15 輪、答過的事不再重問。也修掉它誤以為你帶小孩的問題（測試資料被學進口味檔案，已自動過濾）。",
   "force": false,
-  "releasedAt": "2026-08-25T04:19:53.772Z"
+  "releasedAt": "2026-08-25T04:50:13.811Z"
 }
