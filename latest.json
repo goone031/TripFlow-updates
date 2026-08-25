@@ -1,12 +1,12 @@
 {
   "package": "com.example.tripflow",
-  "versionCode": 99,
-  "versionName": "1.0.98",
-  "apkUrl": "https://github.com/goone031/TripFlow-updates/releases/download/v1.0.98/TripFlow-1.0.98.apk",
-  "md5": "8fb5ee99d8588054bc863cf6e0a2f3f0",
-  "sha256": "6226d550381fbde08a0ec97e52b9f229660fdd817c82ebe108f756d0fafa0d39",
+  "versionCode": 100,
+  "versionName": "1.0.99",
+  "apkUrl": "https://github.com/goone031/TripFlow-updates/releases/download/v1.0.99/TripFlow-1.0.99.apk",
+  "md5": "8abb1261b671a48936d01b0291c346ad",
+  "sha256": "09486ee00b2670b9c1ce477b8039e2a824e323de9057a0ae602570f0dc88e21f",
   "signerCertSha256": "bf9ae8c26c974d1f97b3a74a65e6564a1a7683e6611914b9a5dc457e65561eda",
-  "notes": "修好「一直重問答過的問題」：問答改用理解力較好的模型、對話記憶從 4 輪拉長到 15 輪、答過的事不再重問。也修掉它誤以為你帶小孩的問題（測試資料被學進口味檔案，已自動過濾）。",
+  "notes": "問卷畫面只留一顆主按鈕：輸入框空著時是「直接開始規劃」，開始打字或點了建議就自動變回「送出」，不再兩顆按鈕同時出現。",
   "force": false,
-  "releasedAt": "2026-08-25T04:50:13.811Z"
+  "releasedAt": "2026-08-25T05:45:36.266Z"
 }
