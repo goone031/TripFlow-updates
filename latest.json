@@ -1,12 +1,12 @@
 {
   "package": "com.example.tripflow",
-  "versionCode": 94,
-  "versionName": "1.0.93",
-  "apkUrl": "https://github.com/goone031/TripFlow-updates/releases/download/v1.0.93/TripFlow-1.0.93.apk",
-  "md5": "74fcea9bd67fac20b42fa960f78dfaa6",
-  "sha256": "59aac0af68c7bab483e0fc67e70fdcd98916ce05b262aa9246c304c433662344",
+  "versionCode": 95,
+  "versionName": "1.0.94",
+  "apkUrl": "https://github.com/goone031/TripFlow-updates/releases/download/v1.0.94/TripFlow-1.0.94.apk",
+  "md5": "a424bfa98794f5586bafec49f5a7bb32",
+  "sha256": "6d95b940995586e2118b5d87f709e29c61ffe4ba1e39bbd0c7f4518d44d9b4aa",
   "signerCertSha256": "bf9ae8c26c974d1f97b3a74a65e6564a1a7683e6611914b9a5dc457e65561eda",
-  "notes": "寫入行程被擋時，畫面會直接寫出原因，除錯紀錄也會記下來；規劃結果的有效時間從 30 分鐘放寬到 12 小時，慢慢看預覽也不會過期。",
+  "notes": "問答改由模型主導：聊天更自然、不再出現對不上題目的建議與內建題，模型會從整段對話自己整理需求。三版本比稿沒被選上的景點和餐廳，現在會掛成同一天的備選，點地圖正選就看得到。",
   "force": false,
-  "releasedAt": "2026-08-24T22:39:43.325Z"
+  "releasedAt": "2026-08-25T00:59:33.579Z"
 }
