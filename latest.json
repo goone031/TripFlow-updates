@@ -1,12 +1,12 @@
 {
   "package": "com.example.tripflow",
-  "versionCode": 102,
-  "versionName": "1.1.1",
-  "apkUrl": "https://github.com/goone031/TripFlow-updates/releases/download/v1.1.1/TripFlow-1.1.1.apk",
-  "md5": "f7ecd03586091329057059ed4fcc84c0",
-  "sha256": "8fc98284f8151deec5a52e891cd35cc1e48c801b2449493eafe6bfb6b480b6d9",
+  "versionCode": 103,
+  "versionName": "1.1.2",
+  "apkUrl": "https://github.com/goone031/TripFlow-updates/releases/download/v1.1.2/TripFlow-1.1.2.apk",
+  "md5": "b9d956bda7da02115b9f4ea56077aa19",
+  "sha256": "abf89b2d320a8aa434b32808ea4562a4268c083d437eb06343a06e5a912f5547",
   "signerCertSha256": "bf9ae8c26c974d1f97b3a74a65e6564a1a7683e6611914b9a5dc457e65561eda",
-  "notes": "修好「行程排好了卻寫不進去」：內部編號過長被檢查擋下。規劃途中網路短暫中斷會自動重試，不會白跑一趟。",
+  "notes": "說「不要某地的景點」現在真的算數：住宿基地和觀光範圍分開理解，住神戶也能整趟只玩周邊城市。",
   "force": false,
-  "releasedAt": "2026-08-27T08:03:52.576Z"
+  "releasedAt": "2026-08-27T12:51:01.406Z"
 }
