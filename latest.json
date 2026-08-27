@@ -1,12 +1,12 @@
 {
   "package": "com.example.tripflow",
-  "versionCode": 105,
-  "versionName": "1.1.4",
-  "apkUrl": "https://github.com/goone031/TripFlow-updates/releases/download/v1.1.4/TripFlow-1.1.4.apk",
-  "md5": "1cec40ede3b40e8a3bf550634030acb5",
-  "sha256": "73b2ad131a9fac251e93086f7eaed087a1f1f5c40e202e8653e54b591a84e3c8",
+  "versionCode": 106,
+  "versionName": "1.1.5",
+  "apkUrl": "https://github.com/goone031/TripFlow-updates/releases/download/v1.1.5/TripFlow-1.1.5.apk",
+  "md5": "9a8865d371f5160edfff353c21ecc41e",
+  "sha256": "9464b590a0d95f7d98cb715f6111fe988c493d4c18eed067210bc17cd775b2b8",
   "signerCertSha256": "bf9ae8c26c974d1f97b3a74a65e6564a1a7683e6611914b9a5dc457e65561eda",
-  "notes": "修正跨天景點分區與距離計算；每天納入住宿出發及回程，避免附近景點分散、跨城折返。",
+  "notes": "修正跨天左右折返與離境日動線：相鄰天沿同一方向分區，最後一天逐步靠近離境機場。",
   "force": false,
-  "releasedAt": "2026-08-27T15:41:22.249Z"
+  "releasedAt": "2026-08-27T22:31:31.371Z"
 }
