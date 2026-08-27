@@ -1,12 +1,12 @@
 {
   "package": "com.example.tripflow",
-  "versionCode": 100,
-  "versionName": "1.0.99",
-  "apkUrl": "https://github.com/goone031/TripFlow-updates/releases/download/v1.0.99/TripFlow-1.0.99.apk",
-  "md5": "8abb1261b671a48936d01b0291c346ad",
-  "sha256": "09486ee00b2670b9c1ce477b8039e2a824e323de9057a0ae602570f0dc88e21f",
+  "versionCode": 101,
+  "versionName": "1.1.0",
+  "apkUrl": "https://github.com/goone031/TripFlow-updates/releases/download/v1.1.0/TripFlow-1.1.0.apk",
+  "md5": "00b068005a6223fdbe8f31383d135c9c",
+  "sha256": "3c5b05f39dc53403b53a7f6fbee4da9ffb3cb37c7d13b123730768d2220dff7d",
   "signerCertSha256": "bf9ae8c26c974d1f97b3a74a65e6564a1a7683e6611914b9a5dc457e65561eda",
-  "notes": "問卷畫面只留一顆主按鈕：輸入框空著時是「直接開始規劃」，開始打字或點了建議就自動變回「送出」，不再兩顆按鈕同時出現。",
+  "notes": "修好伺服器規劃收到結果後當場失敗的問題（這也是「規劃失敗」的主因）。規劃失敗時會把原因寫進除錯紀錄，不再無跡可尋。",
   "force": false,
-  "releasedAt": "2026-08-25T05:45:36.266Z"
+  "releasedAt": "2026-08-27T04:22:58.314Z"
 }
