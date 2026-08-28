@@ -1,12 +1,12 @@
 {
   "package": "com.example.tripflow",
-  "versionCode": 106,
-  "versionName": "1.1.5",
-  "apkUrl": "https://github.com/goone031/TripFlow-updates/releases/download/v1.1.5/TripFlow-1.1.5.apk",
-  "md5": "9a8865d371f5160edfff353c21ecc41e",
-  "sha256": "9464b590a0d95f7d98cb715f6111fe988c493d4c18eed067210bc17cd775b2b8",
+  "versionCode": 107,
+  "versionName": "1.1.6",
+  "apkUrl": "https://github.com/goone031/TripFlow-updates/releases/download/v1.1.6/TripFlow-1.1.6.apk",
+  "md5": "1d9a03fabd6191db5efbecdc7137103e",
+  "sha256": "f81a400dae926fe20f61e210ba71e2c81b3b29dc45289a56808e983275061b8c",
   "signerCertSha256": "bf9ae8c26c974d1f97b3a74a65e6564a1a7683e6611914b9a5dc457e65561eda",
-  "notes": "修正跨天左右折返與離境日動線：相鄰天沿同一方向分區，最後一天逐步靠近離境機場。",
+  "notes": "行程改用真實開車時間排（不再用直線距離估算），跨城市那幾天不會再排得太滿；候選地點不會再被系統默默丟掉。規劃模型統一為 Luna。",
   "force": false,
-  "releasedAt": "2026-08-27T22:31:31.371Z"
+  "releasedAt": "2026-08-28T10:23:47.185Z"
 }
