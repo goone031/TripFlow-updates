@@ -1,12 +1,12 @@
 {
   "package": "com.example.tripflow",
-  "versionCode": 107,
-  "versionName": "1.1.6",
-  "apkUrl": "https://github.com/goone031/TripFlow-updates/releases/download/v1.1.6/TripFlow-1.1.6.apk",
-  "md5": "1d9a03fabd6191db5efbecdc7137103e",
-  "sha256": "f81a400dae926fe20f61e210ba71e2c81b3b29dc45289a56808e983275061b8c",
+  "versionCode": 108,
+  "versionName": "1.1.7",
+  "apkUrl": "https://github.com/goone031/TripFlow-updates/releases/download/v1.1.7/TripFlow-1.1.7.apk",
+  "md5": "ebd11f2860545ec34d4e9616dc1c338b",
+  "sha256": "0621e649bf2cacea6be810840b4eaa20430e0c638c695e436ca027c49d0ba26a",
   "signerCertSha256": "bf9ae8c26c974d1f97b3a74a65e6564a1a7683e6611914b9a5dc457e65561eda",
-  "notes": "行程改用真實開車時間排（不再用直線距離估算），跨城市那幾天不會再排得太滿；候選地點不會再被系統默默丟掉。規劃模型統一為 Luna。",
+  "notes": "行程表每天多一句「為什麼這樣排」，下午留白是刻意還是漏排一看就知道。三餐改從當天所在區域挑，不再為了吃飯往回開；短距離的來回繞路也抓得到了。",
   "force": false,
-  "releasedAt": "2026-08-28T10:23:47.185Z"
+  "releasedAt": "2026-08-28T14:48:40.757Z"
 }
